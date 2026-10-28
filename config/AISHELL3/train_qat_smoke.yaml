@@ -1,0 +1,30 @@
+# FastSpeech2-QAT 专用训练配置（区别于 FP32 train.yaml）
+path:
+  ckpt_path: "./output/qat_ckpt_smoke/AISHELL3"
+  log_path: "./output/qat_log_smoke/AISHELL3"
+  result_path: "./output/qat_result_smoke/AISHELL3"
+
+optimizer:
+  batch_size: 16
+  betas: [0.9, 0.98]
+  eps: 0.000000001
+  weight_decay: 0.0
+  grad_clip_thresh: 1.0
+  grad_acc_step: 1
+  lr: 0.0001 # QAT 微调用恒定学习率（预训练已完成 Noam 预热阶段）
+
+step:
+  total_step: 30
+  log_step: 10
+  synth_step: 1000
+  val_step: 1000
+  save_step: 5000
+
+quant:
+  weight_bits: 8
+  input_bits: 8
+  weight_quant_method: "vox" # vox | symmetric
+  input_quant_method: "vox_input" # vox_input（可学习 scale_in）| symmetric
+  # 参与量化的模块；如需子集量化改为列表，如 ["encoder", "decoder"]
+  quant_modules: ["encoder", "variance_adaptor", "decoder", "mel_linear", "postnet", "speaker_emb"]
+  calib_samples: 256 # scale_in 标定样本数（从训练集取）

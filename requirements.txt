@@ -1,0 +1,19 @@
+# FastSpeech2-QAT
+# torch 需要手动装 cu128 变体以支持 RTX 50 系列 (sm_120):
+#   uv pip install "torch==2.7.1+cu128" --index-url https://download.pytorch.org/whl/cu128
+librosa>=0.11
+pandas>=2.0        # 覆盖系统旧版 pandas（--system-site-packages 冲突）
+scikit-learn
+matplotlib
+tensorboard
+tqdm
+PyYAML
+numba
+soundfile
+pyworld
+pypinyin
+g2p-en
+inflect
+unidecode
+tgt
+pyarrow            # prepare_corpus.py 读取 AISHELL-3 parquet

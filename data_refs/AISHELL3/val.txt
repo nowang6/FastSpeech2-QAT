@@ -1,0 +1,512 @@
+SSB11610423|SSB1161|{t ian1 an1 sh u4 m a3 ch eng2}|t ian1 an1 sh u4 m a3 ch eng2
+SSB06060005|SSB0606|{y in1 w uei4 z uo4 zh e4 g e4 w uo3 m en5 b ing4 m ei2 y iou3 r en4 h e2 d e5 sh ou1 y i4}|y in1 w uei4 z uo4 zh e4 g e4 w uo3 m en5 b ing4 m ei2 y iou3 r en4 h e2 d e5 sh ou1 y i4
+SSB19350064|SSB1935|{j v3 p ai2 rr p ai1 x ia4 z ii4 j i3 sp s ong4 p ai1 d e5 sp y ian4 p in3}|j v3 p ai2 rr p ai1 x ia4 z ii4 j i3 sp s ong4 p ai1 d e5 sp y ian4 p in3
+SSB16840002|SSB1684|{z ai4 g ao1 d ong1 m ei2 d e5 g uan1 j ian4 zh ong1 t ou2 h ou4}|z ai4 g ao1 d ong1 m ei2 d e5 g uan1 j ian4 zh ong1 t ou2 h ou4
+SSB03540062|SSB0354|{e2 rr b en3 l ai2 j iou4 k uei4 f a2 d e5 j i1 c eng2 n v3 z u2 r en2 c ai2 sp z ao1 y v4 sp g an1 g a4 d e5 zh ou1 q i1 h ua4}|e2 rr b en3 l ai2 j iou4 k uei4 f a2 d e5 j i1 c eng2 n v3 z u2 r en2 c ai2 sp z ao1 y v4 sp g an1 g a4 d e5 zh ou1 q i1 h ua4
+SSB13200488|SSB1320|{z ai4 z ong1 j iao4 g ai3 g e2 y vn4 d ong4 zh ong1 b ei4 h uei3 d e5 zh u4 m ing2 d e5 sp sh eng4 sp m u2 m a3 l i4 y ia4 sp s u4 x iang4 sp x ian4 z ai4 x iang2 q i3 l ai2 l e5}|z ai4 z ong1 j iao4 g ai3 g e2 y vn4 d ong4 zh ong1 b ei4 h uei3 d e5 zh u4 m ing2 d e5 sp sh eng4 sp m u2 m a3 l i4 y ia4 sp s u4 x iang4 sp x ian4 z ai4 x iang2 q i3 l ai2 l e5
+SSB06090150|SSB0609|{zh ong1 g uo3 y i2 d ong4 h u4 l ian2 w uang3 y iong4 h u4 y i3 sp d a2 d ao4 sp b a1 d ian3 sp q i1 s ii4 y i4}|zh ong1 g uo3 y i2 d ong4 h u4 l ian2 w uang3 y iong4 h u4 y i3 sp d a2 d ao4 sp b a1 d ian3 sp q i1 s ii4 y i4
+SSB13930423|SSB1393|{w uei1 l ian2 m ei3 t ian1 z ao3 sh ang4 h an3 zh e5 n i3 d e5 m ing2 z ii4 c ong2 e4 m eng4 zh ong1 j ing1 x ing3 m a5}|w uei1 l ian2 m ei3 t ian1 z ao3 sh ang4 h an3 zh e5 n i3 d e5 m ing2 z ii4 c ong2 e4 m eng4 zh ong1 j ing1 x ing3 m a5
+SSB02990240|SSB0299|{e2 rr q ie3 q i2 m a3 sh iii4 y i2 x iang4 zh u3 d ong4 y vn4 d ong4 y v3 b ei4 d ong4 y vn4 d ong4 x iang1 j ie2 h e2 d e5 y vn4 d ong4}|e2 rr q ie3 q i2 m a3 sh iii4 y i2 x iang4 zh u3 d ong4 y vn4 d ong4 y v3 b ei4 d ong4 y vn4 d ong4 x iang1 j ie2 h e2 d e5 y vn4 d ong4
+SSB10720178|SSB1072|{h ai3 j vn1 d e5 w u3 q i4 y iou2 sh en3 m e5}|h ai3 j vn1 d e5 w u3 q i4 y iou2 sh en3 m e5
+SSB02880035|SSB0288|{d a4 j vn1 e4 rr sh ou3 m o2 t uo1}|d a4 j vn1 e4 rr sh ou3 m o2 t uo1
+SSB12740264|SSB1274|{j in1 zh ai4 x ian4 d e5 x iang1 zh en4 y iou3 sh en2 m o4}|j in1 zh ai4 x ian4 d e5 x iang1 zh en4 y iou3 sh en2 m o4
+SSB18090142|SSB1809|{b u2 b i4 zh uei1 q iou2 x iao3 e2 rr q van2 sp g ou4 j ia4}|b u2 b i4 zh uei1 q iou2 x iao3 e2 rr q van2 sp g ou4 j ia4
+SSB11760288|SSB1176|{y iou2 x ian3 g ong1 s ii1 t ou2 s u4 z ong1 w uei2 f a3 w uei2 g uei1 sp l ei4 t ou2 s u4 x ia4 j iang4 m ing2 x ian3}|y iou2 x ian3 g ong1 s ii1 t ou2 s u4 z ong1 w uei2 f a3 w uei2 g uei1 sp l ei4 t ou2 s u4 x ia4 j iang4 m ing2 x ian3
+SSB03380442|SSB0338|{x iao4 y van2 x iao3 sh uo1 sh u1 j i2 y iou3 sh en2 m e5}|x iao4 y van2 x iao3 sh uo1 sh u1 j i2 y iou3 sh en2 m e5
+SSB10200111|SSB1020|{j i4 ch eng2 x ian4 d e5 x iang1 zh en4 sp y iou3 sh en2 m e5}|j i4 ch eng2 x ian4 d e5 x iang1 zh en4 sp y iou3 sh en2 m e5
+SSB10200073|SSB1020|{r en2 l ei4 w uen2 m ing2 d uo4 l a4 l e5}|r en2 l ei4 w uen2 m ing2 d uo4 l a4 l e5
+SSB13930180|SSB1393|{w uo2 x iang3 g en1 n i3 t an2 t an2 zh ou1 r iii4 sh ang4 j ie2 m u4 d e5 k e4 r en2}|w uo2 x iang3 g en1 n i3 t an2 t an2 zh ou1 r iii4 sh ang4 j ie2 m u4 d e5 k e4 r en2
+SSB03390295|SSB0339|{n i3 m en5 q ve4 sh iii2 y iou3 y i2 g e4 g ong4 t ong1 sp d ian3}|n i3 m en5 q ve4 sh iii2 y iou3 y i2 g e4 g ong4 t ong1 sp d ian3
+SSB07460072|SSB0746|{w uo3 g en1 b en3 m ei2 c an1 y v4 y ian3 ch u1}|w uo3 g en1 b en3 m ei2 c an1 y v4 y ian3 ch u1
+SSB02730368|SSB0273|{zh e4 r ang4 t a1 sp ch ong1 f en4 d e5 l iao2 j ie3 l e5 sp zh e4 z uo4 ch eng1 sh iii4}|zh e4 r ang4 t a1 sp ch ong1 f en4 d e5 l iao2 j ie3 l e5 sp zh e4 z uo4 ch eng1 sh iii4
+SSB09130214|SSB0913|{d an4 q ve4 b ing4 w uei4 w uan2 ch eng2 c ii3 q ian2 sh e4 d ing4 d e5 x iao1 sh ou4 m u4 b iao1}|d an4 q ve4 b ing4 w uei4 w uan2 ch eng2 c ii3 q ian2 sh e4 d ing4 d e5 x iao1 sh ou4 m u4 b iao1
+SSB03090434|SSB0309|{b ao1 t ou2 sh iii4 j i2 j iou4 zh an4}|b ao1 t ou2 sh iii4 j i2 j iou4 zh an4
+SSB14370359|SSB1437|{x iao3 r en2}|x iao3 r en2
+SSB09150058|SSB0915|{g u3 b a1 p ai2 q iou2 m ian4 l in2 d e5 z uei4 d a4 k uen4 n an2 l eng1 sh iii4 j ing1 f ei4 b u4 z u2 q ve1 f a2 z an4 zh u4}|g u3 b a1 p ai2 q iou2 m ian4 l in2 d e5 z uei4 d a4 k uen4 n an2 l eng1 sh iii4 j ing1 f ei4 b u4 z u2 q ve1 f a2 z an4 zh u4
+SSB04820360|SSB0482|{q i3 ch u1 d ou4 p a4 d a4 e2 rr z ii5 ch iii1 c u4}|q i3 ch u1 d ou4 p a4 d a4 e2 rr z ii5 ch iii1 c u4
+SSB11380106|SSB1138|{h ong2 y v2 zh ou4 ch u1 y ian3 d e5 d ian4 sh iii4 j v4 y iou3 sh en2 m e5}|h ong2 y v2 zh ou4 ch u1 y ian3 d e5 d ian4 sh iii4 j v4 y iou3 sh en2 m e5
+SSB14480096|SSB1448|{d an1 m ai4 m ing2 j iang4 sp p i2 t e4 g ai4 d e2 sp j iou4 y iou3 g uo4 t ong2 y iang4 d e5 z ao1 y v4}|d an1 m ai4 m ing2 j iang4 sp p i2 t e4 g ai4 d e2 sp j iou4 y iou3 g uo4 t ong2 y iang4 d e5 z ao1 y v4
+SSB02990074|SSB0299|{b ao1 k e1 d ong4 w u4 y iou2 sh en3 m e5}|b ao1 k e1 d ong4 w u4 y iou2 sh en3 m e5
+SSB19180235|SSB1918|{n i3 sp j ve2 d e5 w uo3 sh iii4 h uo2 z ai4 x ian4 sh iii2 zh ong1 d e5 r en2 m a5}|n i3 sp j ve2 d e5 w uo3 sh iii4 h uo2 z ai4 x ian4 sh iii2 zh ong1 d e5 r en2 m a5
+SSB12390218|SSB1239|{h a1 m a3 sp t ang2 c uen1 w uei3 h uei4}|h a1 m a3 sp t ang2 c uen1 w uei3 h uei4
+SSB13020405|SSB1302|{sh iii4 j i4 h ua2 ao4 sh iii2 p in3 g ong1 s ii1 g ong1 y ie4 y van2}|sh iii4 j i4 h ua2 ao4 sh iii2 p in3 g ong1 s ii1 g ong1 y ie4 y van2
+SSB07840333|SSB0784|{w u2 d i4 z ii4 r ong2}|w u2 d i4 z ii4 r ong2
+SSB07100045|SSB0710|{x iang2 x iang2 y i3 q ian2 w uo3 m en5 h ai2 m ei2 l ai2 zh e4 l i3 zh iii1 q ian2}|x iang2 x iang2 y i3 q ian2 w uo3 m en5 h ai2 m ei2 l ai2 zh e4 l i3 zh iii1 q ian2
+SSB04700002|SSB0470|{m ing2 m u4 c ai4 p u2 y iou3 sh en2 m e5}|m ing2 m u4 c ai4 p u2 y iou3 sh en2 m e5
+SSB03950244|SSB0395|{zh u3 y iao4 b ao1 k uo4 y ian2 g e2 sh uei3 g ong1 n eng2 q v1 j ian1 g uan2 sp g uan2 l i3}|zh u3 y iao4 b ao1 k uo4 y ian2 g e2 sh uei3 g ong1 n eng2 q v1 j ian1 g uan2 sp g uan2 l i3
+SSB11000161|SSB1100|{n i2 d ei3 sp z ai4 zh e4 sp d ai1 y i2 zh en4 z ii5 l e5}|n i2 d ei3 sp z ai4 zh e4 sp d ai1 y i2 zh en4 z ii5 l e5
+SSB15630127|SSB1563|{q ian2 j ia1 l e4 d e5 d ian4 y ing3 y iou2 sh en3 m e5}|q ian2 j ia1 l e4 d e5 d ian4 y ing3 y iou2 sh en3 m e5
+SSB16240059|SSB1624|{h ua2 r uen4 w uan4 j ia1 sp j ing1 m ao4 zh ong1 x in1 d ian4}|h ua2 r uen4 w uan4 j ia1 sp j ing1 m ao4 zh ong1 x in1 d ian4
+SSB13280210|SSB1328|{j iou4 h uei4 w uan2 sh an4 d ang1 d i4 n ong2 y ie4 ch an3 y ie4 h ua4 f u2 w u4}|j iou4 h uei4 w uan2 sh an4 d ang1 d i4 n ong2 y ie4 ch an3 y ie4 h ua4 f u2 w u4
+SSB07460076|SSB0746|{n i3 d ou1 b u2 r ang4 n i2 n v3 e2 rr sp h e2 t a1 y ve1 h uei4}|n i3 d ou1 b u2 r ang4 n i2 n v3 e2 rr sp h e2 t a1 y ve1 h uei4
+SSB06230274|SSB0623|{t ing1 g e1 q v3 sp ai4 w uo3 d e5 r en2 sp h e2 w uo3 sp ai4 d e5 r en2}|t ing1 g e1 q v3 sp ai4 w uo3 d e5 r en2 sp h e2 w uo3 sp ai4 d e5 r en2
+SSB16240073|SSB1624|{n a4 n ian2 w uo3 m en5 zh eng3 g e4 x ia4 t ian1 d ou1 d ai1 z ai4 y i4 d a4 l i4}|n a4 n ian2 w uo3 m en5 zh eng3 g e4 x ia4 t ian1 d ou1 d ai1 z ai4 y i4 d a4 l i4
+SSB16500393|SSB1650|{zh ong1 g uo2 d uei4 r u2 g uo3 n eng2 g ou4 w uen3 d ing4 l in2 ch ang3 x in1 l i3}|zh ong1 g uo2 d uei4 r u2 g uo3 n eng2 g ou4 w uen3 d ing4 l in2 ch ang3 x in1 l i3
+SSB03230181|SSB0323|{y i2 d ai4 h uang2 h ou4 d a4 y v4 e2 rr}|y i2 d ai4 h uang2 h ou4 d a4 y v4 e2 rr
+SSB07860220|SSB0786|{e4 rr w uan4 s ii4 q ian1 j iou2 b ai3 y i1 sh iii2 b a1}|e4 rr w uan4 s ii4 q ian1 j iou2 b ai3 y i1 sh iii2 b a1
+SSB02990355|SSB0299|{w uo3 m en5 sh iii4 l ai2 j ian4 sp a1 sp k e1 s ii1 l an2 d e5}|w uo3 m en5 sh iii4 l ai2 j ian4 sp a1 sp k e1 s ii1 l an2 d e5
+SSB12150354|SSB1215|{w uo3 z ai4 ch uen1 t ian1 d eng2 n i3}|w uo3 z ai4 ch uen1 t ian1 d eng2 n i3
+SSB05990331|SSB0599|{q i1 sh iii2 l iou4 w uan4 l iou4 q ian1 b a1 b ai2 w u3 sh iii2 b a1}|q i1 sh iii2 l iou4 w uan4 l iou4 q ian1 b a1 b ai2 w u3 sh iii2 b a1
+SSB16860016|SSB1686|{w uai4 j iao4 zh iii2 j iao4 d e5 x iang4 m u4 sp b i4 x v1 sh iii4 sp g ai1 g uo2 j ia1 d e5 sp ch uan2 t ong3 y iou1 sh iii4 x iang4 m u4}|w uai4 j iao4 zh iii2 j iao4 d e5 x iang4 m u4 sp b i4 x v1 sh iii4 sp g ai1 g uo2 j ia1 d e5 sp ch uan2 t ong3 y iou1 sh iii4 x iang4 m u4
+SSB11000125|SSB1100|{t ao2 h ong2 ch u1 y ian3 d e5 d ian4 sh iii4 j v4 y iou3 sh en2 m e5}|t ao2 h ong2 ch u1 y ian3 d e5 d ian4 sh iii4 j v4 y iou3 sh en2 m e5
+SSB05650384|SSB0565|{b ei3 j ing1 sh iii2 j ian1 sh iii2 y ve4 s an1 r iii4}|b ei3 j ing1 sh iii2 j ian1 sh iii2 y ve4 s an1 r iii4
+SSB16990334|SSB1699|{z ai4 s uo2 y iou3 sh e4 b ei4 d ou1 k e2 y i3 sh iii2 x ian4 y i2 zh iii4 x ing4 t i3 y ian4}|z ai4 s uo2 y iou3 sh e4 b ei4 d ou1 k e2 y i3 sh iii2 x ian4 y i2 zh iii4 x ing4 t i3 y ian4
+SSB09190010|SSB0919|{s u1 h e2 j iou3 b a1 m an4 y iao2}|s u1 h e2 j iou3 b a1 m an4 y iao2
+SSB09350152|SSB0935|{g uang3 zh ou1 y i1 k e1 d a4 x ve2 sp n v3 sh eng1 sh iii1 l ian2 s an1 t ian1 sp g ong1 y van2 sp h e2 h ua1 ch iii2 f a1 x ian4 q i2 y i2 t i3}|g uang3 zh ou1 y i1 k e1 d a4 x ve2 sp n v3 sh eng1 sh iii1 l ian2 s an1 t ian1 sp g ong1 y van2 sp h e2 h ua1 ch iii2 f a1 x ian4 q i2 y i2 t i3
+SSB05390317|SSB0539|{q in1 ai4 d e5 t ang1 m u3}|q in1 ai4 d e5 t ang1 m u3
+SSB07940026|SSB0794|{w uan4 k e1 q i1 y ve4 x iao1 sh ou4 sp r eng2 b ao3 ch iii2 y i2 d ing4 r e4 d u4}|w uan4 k e1 q i1 y ve4 x iao1 sh ou4 sp r eng2 b ao3 ch iii2 y i2 d ing4 r e4 d u4
+SSB11610324|SSB1161|{l ai2 sh ou3 y in1 y ve4 sp t ong2 zh uo1 d e5 n i3}|l ai2 sh ou3 y in1 y ve4 sp t ong2 zh uo1 d e5 n i3
+SSB13280480|SSB1328|{j ing1 ch ang2 n eng2 g ou4 d e2 d ao4 j ian2 m ian3 x ve2 f ei4 d e5 j iang3 sp l i4}|j ing1 ch ang2 n eng2 g ou4 d e2 d ao4 j ian2 m ian3 x ve2 f ei4 d e5 j iang3 sp l i4
+SSB12150022|SSB1215|{j in1 zh u4 h e4 ch u1 y ian3 d e5 d ian4 sh iii4 j v4 y iou2 sh en3 m e5}|j in1 zh u4 h e4 ch u1 y ian3 d e5 d ian4 sh iii4 j v4 y iou2 sh en3 m e5
+SSB13820061|SSB1382|{l an2 x iao3 l ong2 x iao3 sh uo1 y iou3 sh en2 m e5}|l an2 x iao3 l ong2 x iao3 sh uo1 y iou3 sh en2 m e5
+SSB19020088|SSB1902|{zh e4 y ie2 sh iii3 d e5 t ian1 c ai2 d e5 m ing2 x ing1 zh en4 r ong2 y i4 ch ang2 y iao4 y ian3}|zh e4 y ie2 sh iii3 d e5 t ian1 c ai2 d e5 m ing2 x ing1 zh en4 r ong2 y i4 ch ang2 y iao4 y ian3
+SSB11380420|SSB1138|{zh e4 y iang4 w uo3 m en5 j iou4 b u2 y iong4 z ai4 zh en4 sp d u2 t a1 sp zh e4 b en3 p o4 sh u1 l e5}|zh e4 y iang4 w uo3 m en5 j iou4 b u2 y iong4 z ai4 zh en4 sp d u2 t a1 sp zh e4 b en3 p o4 sh u1 l e5
+SSB11100496|SSB1110|{j ia1 n ao3 j i4 h ua4 sp e4 rr l ing2 y i1 q i1}|j ia1 n ao3 j i4 h ua4 sp e4 rr l ing2 y i1 q i1
+SSB03950338|SSB0395|{sh ou3 f u4 b ai3 f en1 zh iii1 sp e4 rr sh iii2 b u2 t ai4 k e3 n eng2 x ian4 sh iii2}|sh ou3 f u4 b ai3 f en1 zh iii1 sp e4 rr sh iii2 b u2 t ai4 k e3 n eng2 x ian4 sh iii2
+SSB07230144|SSB0723|{t ing1 q v3 t a1 m en5 g uan1 y v2 j v3 b an4 ao4 y vn4 h uei4 d e5 x iang2 f a3}|t ing1 q v3 t a1 m en5 g uan1 y v2 j v3 b an4 ao4 y vn4 h uei4 d e5 x iang2 f a3
+SSB07580375|SSB0758|{zh u4 zh ai2 t ou2 z ii1 h uan2 b i3 z eng1 zh ang2 b ai3 f en1 zh iii1 q i1}|zh u4 zh ai2 t ou2 z ii1 h uan2 b i3 z eng1 zh ang2 b ai3 f en1 zh iii1 q i1
+SSB13280014|SSB1328|{r en2 ou3 m o2 f ang3 l e5 sp e4 rr zh an4 q i1 j ian1 sp d e2 g uo2 g uo2 f ang2 j vn1 zh an4 sh iii4 d e5 x ing2 x iang4}|r en2 ou3 m o2 f ang3 l e5 sp e4 rr zh an4 q i1 j ian1 sp d e2 g uo2 g uo2 f ang2 j vn1 zh an4 sh iii4 d e5 x ing2 x iang4
+SSB02460402|SSB0246|{zh ong1 d i1 sh ou1 r u4 r en2 q vn2 j iang1 ch eng2 w uei2 zh u3 l i4 g ou4 f ang2 q vn2 t i3}|zh ong1 d i1 sh ou1 r u4 r en2 q vn2 j iang1 ch eng2 w uei2 zh u3 l i4 g ou4 f ang2 q vn2 t i3
+SSB05700329|SSB0570|{s an1 b ai3 l iou4 sh iii2 l iou4 d ian3 rr sp e4 rr s ii4}|s an1 b ai3 l iou4 sh iii2 l iou4 d ian3 rr sp e4 rr s ii4
+SSB10910389|SSB1091|{p ing2 j vn1 l ou2 m ian4 j ia4 sp d a2 d ao4 l e5 y i2 w uan4 y van2 m ei3 p ing2 m i3}|p ing2 j vn1 l ou2 m ian4 j ia4 sp d a2 d ao4 l e5 y i2 w uan4 y van2 m ei3 p ing2 m i3
+SSB03410241|SSB0341|{d i4 e4 rr c ii4 sh iii4 j ie3 d a4 zh an4 sh u1 j i2 sp y iou3 sh en2 m e5}|d i4 e4 rr c ii4 sh iii4 j ie3 d a4 zh an4 sh u1 j i2 sp y iou3 sh en2 m e5
+SSB10500249|SSB1050|{t a1 b a3 y i4 t ou2 l v2 sp h e2 sp y i4 p i1 m a3 sh uan1 z ai4 y i4 k e1 sh u4 sh ang4}|t a1 b a3 y i4 t ou2 l v2 sp h e2 sp y i4 p i1 m a3 sh uan1 z ai4 y i4 k e1 sh u4 sh ang4
+SSB03160407|SSB0316|{y i1 sh iii2 y i1 w uan4 b a1 q ian1 w u2 b ai3 q i1 sh iii2 e4 rr}|y i1 sh iii2 y i1 w uan4 b a1 q ian1 w u2 b ai3 q i1 sh iii2 e4 rr
+SSB07230068|SSB0723|{l ong2 z ai3 z ao4 x ing2}|l ong2 z ai3 z ao4 x ing2
+SSB11080248|SSB1108|{b i4 sh iii2 j in1 sh u3 w u4 z ii1 g ong1 y ing4 zh an4}|b i4 sh iii2 j in1 sh u3 w u4 z ii1 g ong1 y ing4 zh an4
+SSB09970211|SSB0997|{x in1 j ia1 p o1 l uen2 l i3 d ian4 sh iii4 j v4 y iou2 sh en2 m e5}|x in1 j ia1 p o1 l uen2 l i3 d ian4 sh iii4 j v4 y iou2 sh en2 m e5
+SSB18460289|SSB1846|{ch an2 p in3 sh u4 l iang4 z ai4 sp q i1 sh iii2 w u3 sp d ao4 q i1 sh iii2 sp b a1 k uan3 zh iii1 j ian1 sp f u2 sp d ong4}|ch an2 p in3 sh u4 l iang4 z ai4 sp q i1 sh iii2 w u3 sp d ao4 q i1 sh iii2 sp b a1 k uan3 zh iii1 j ian1 sp f u2 sp d ong4
+SSB04270152|SSB0427|{t ing1 t ing1 t a1 m en5 d e5 y i4 j ian4 j ian4 y i4}|t ing1 t ing1 t a1 m en5 d e5 y i4 j ian4 j ian4 y i4
+SSB07480139|SSB0748|{y i2 q ie4 d ou1 y iao4 d eng3 p ing2 d ing4 zh iii1 h ou4 c ai2 n eng2 y iou3 j ie2 l uen4}|y i2 q ie4 d ou1 y iao4 d eng3 p ing2 d ing4 zh iii1 h ou4 c ai2 n eng2 y iou3 j ie2 l uen4
+SSB13930231|SSB1393|{z uo4 w uei2 k e1 h uan4 j v4 d e5 b iao1 zh iii4 r en2 w u4}|z uo4 w uei2 k e1 h uan4 j v4 d e5 b iao1 zh iii4 r en2 w u4
+SSB17110157|SSB1711|{h e2 d a4 j ia1 sp y i4 q i3 n a5 sp n a2 ch u1 sh ou3 zh ong1 h ua4 b i3}|h e2 d a4 j ia1 sp y i4 q i3 n a5 sp n a2 ch u1 sh ou3 zh ong1 h ua4 b i3
+SSB06660213|SSB0666|{w uo3 zh en1 sh iii4 t ai4 ai4 zh e4 g e4 x iao3 j i4 n ian4 p in3 l e5}|w uo3 zh en1 sh iii4 t ai4 ai4 zh e4 g e4 x iao3 j i4 n ian4 p in3 l e5
+SSB18780140|SSB1878|{j ie2 s en1 h e2 n i3 p eng4 t ou2 y i3 q ian2}|j ie2 s en1 h e2 n i3 p eng4 t ou2 y i3 q ian2
+SSB07600369|SSB0760|{sh iii4 f a1 d i4 zh ou1 b ian1 rr e4 rr b ai3 y v2 m ing2 sp q vn2 zh ong4 y i3 b ei4 sh u1 s an4}|sh iii4 f a1 d i4 zh ou1 b ian1 rr e4 rr b ai3 y v2 m ing2 sp q vn2 zh ong4 y i3 b ei4 sh u1 s an4
+SSB03790208|SSB0379|{ch ang4 y i4 sh ou3 t ian1 h ei1 h ei1}|ch ang4 y i4 sh ou3 t ian1 h ei1 h ei1
+SSB03160115|SSB0316|{g ang1 x ia4 b an1 rr g ang1 k an4 d ao4}|g ang1 x ia4 b an1 rr g ang1 k an4 d ao4
+SSB11000171|SSB1100|{w uo3 sh uo1 q ing3 d a4 j ia1 c ii1 g ou3 r ou4}|w uo3 sh uo1 q ing3 d a4 j ia1 c ii1 g ou3 r ou4
+SSB03800325|SSB0380|{d ong1 y ie3 g uei1 w u2 d e5 d ian4 sh iii4 j v4 y iou3 sh en2 m e5}|d ong1 y ie3 g uei1 w u2 d e5 d ian4 sh iii4 j v4 y iou3 sh en2 m e5
+SSB02410364|SSB0241|{t a1 sp d uo1 c ii4 b ei4 m u3 q in1 sp z eng1 m ou3 sp q van2 d a2 j iao3 t i1 sp sh en4 zh iii4 y iong4 sp zh u2 g uen4 m eng3 sp ch ou1}|t a1 sp d uo1 c ii4 b ei4 m u3 q in1 sp z eng1 m ou3 sp q van2 d a2 j iao3 t i1 sp sh en4 zh iii4 y iong4 sp zh u2 g uen4 m eng3 sp ch ou1
+SSB07160451|SSB0716|{ch u1 x ian4 h uai2 g uan1 j ie2 zh ong3 t ong4 x i1 g uan1 j ie2 y ian2 zh eng4 d eng3}|ch u1 x ian4 h uai2 g uan1 j ie2 zh ong3 t ong4 x i1 g uan1 j ie2 y ian2 zh eng4 d eng3
+SSB13820410|SSB1382|{w u3 w uan4 b a1 q ian1 s an1 b ai3 s ii4 sh iii2 s an1}|w u3 w uan4 b a1 q ian1 s an1 b ai3 s ii4 sh iii2 s an1
+SSB08170169|SSB0817|{d uan4 d ian3}|d uan4 d ian3
+SSB04820415|SSB0482|{j iang1 y iou3 l i4 y v4 sp a1 l i3 zh iii4 n eng2 d ian4 sh iii4 sh eng1 t ai4 q van1 d e5 w uan2 sh an4}|j iang1 y iou3 l i4 y v4 sp a1 l i3 zh iii4 n eng2 d ian4 sh iii4 sh eng1 t ai4 q van1 d e5 w uan2 sh an4
+SSB03070502|SSB0307|{n i3 b ie2 ch ou1 sh iii2 j ian1 l e5}|n i3 b ie2 ch ou1 sh iii2 j ian1 l e5
+SSB07170489|SSB0717|{sh iii4 sh en2 m e5 t a1 w uei4 sh en2 m e5 y iao4 t ao2 w uang2}|sh iii4 sh en2 m e5 t a1 w uei4 sh en2 m e5 y iao4 t ao2 w uang2
+SSB16700322|SSB1670|{w u2 q i2 l i4 d e5 sp q ing2 x v4 w uen4 t i2}|w u2 q i2 l i4 d e5 sp q ing2 x v4 w uen4 t i2
+SSB08870352|SSB0887|{l in2 b in1 sp m u4 q ian2 z ai4 y in4 d u4 sh iii4 zh e4 g e4 m o2 sh iii4}|l in2 b in1 sp m u4 q ian2 z ai4 y in4 d u4 sh iii4 zh e4 g e4 m o2 sh iii4
+SSB04150237|SSB0415|{sh ou3 c ii4 l u4 x van3 zh ong1 g uo2 n an2 p ai2 d e5 n ian2 q ing1 f u4 g ong1 sp zh ang1 zh e2 j ia1 b iao3 x ian4 b u4 s u2}|sh ou3 c ii4 l u4 x van3 zh ong1 g uo2 n an2 p ai2 d e5 n ian2 q ing1 f u4 g ong1 sp zh ang1 zh e2 j ia1 b iao3 x ian4 b u4 s u2
+SSB15630418|SSB1563|{w uo3 y iao4 m o1 h ei1 sh ang4 c e4 s uo3}|w uo3 y iao4 m o1 h ei1 sh ang4 c e4 s uo3
+SSB18370284|SSB1837|{m ian4 b an2 c ai3 y iong4 l e5 sp c ai3 y iong4 l e5 sp l iang2 z ii2 d ian3 j i4 sh u4}|m ian4 b an2 c ai3 y iong4 l e5 sp c ai3 y iong4 l e5 sp l iang2 z ii2 d ian3 j i4 sh u4
+SSB06230029|SSB0623|{j i2 z ii1 d ao3 sp zh ong1 h uang2 g uang2 ch ang3 d ian4}|j i2 z ii1 d ao3 sp zh ong1 h uang2 g uang2 ch ang3 d ian4
+SSB15850391|SSB1585|{sh iii4 p in2 y iou2 x i4 d ian4 sh ang1 sp j i2 sh iii2 t ong1 x vn4 sp y ve4 d u2 sp d eng3 sp sh iii4 h e2 x in1 y ing1 y iong4}|sh iii4 p in2 y iou2 x i4 d ian4 sh ang1 sp j i2 sh iii2 t ong1 x vn4 sp y ve4 d u2 sp d eng3 sp sh iii4 h e2 x in1 y ing1 y iong4
+SSB07230391|SSB0723|{l u4 b ian1 sh ao1 k ao3 ch iii1 q i3 l ai2 h en3 y iou4 r en2}|l u4 b ian1 sh ao1 k ao3 ch iii1 q i3 l ai2 h en3 y iou4 r en2
+SSB07370211|SSB0737|{x in1 t ai4 h ua1 y van2}|x in1 t ai4 h ua1 y van2
+SSB10200223|SSB1020|{h u1 h e2 h ao4 t e4 d e5 y i1 y van4 sp y iou3 sh en2 m e5}|h u1 h e2 h ao4 t e4 d e5 y i1 y van4 sp y iou3 sh en2 m e5
+SSB08090481|SSB0809|{d a2 x i1 sp y iou3 m ei2 y iou3 y i4 x ie1 t e4 b ie2 d e5 x ing4 q v4 h uo4 zh e3 ai4 h ao4}|d a2 x i1 sp y iou3 m ei2 y iou3 y i4 x ie1 t e4 b ie2 d e5 x ing4 q v4 h uo4 zh e3 ai4 h ao4
+SSB07020333|SSB0702|{x van2 y i2 d ian4 sh iii4 j v4 y iou3 sh en2 m e5}|x van2 y i2 d ian4 sh iii4 j v4 y iou3 sh en2 m e5
+SSB03390205|SSB0339|{k e1 l in2 sh iii4 n i2 f a3 g uo2 x in1 p ian1 d e5 d ao2 y ian3 h ai2 sh iii4 zh iii4 z uo4 r en2}|k e1 l in2 sh iii4 n i2 f a3 g uo2 x in1 p ian1 d e5 d ao2 y ian3 h ai2 sh iii4 zh iii4 z uo4 r en2
+SSB05020036|SSB0502|{l iou4 w uan4 sp l ing2 sp s an1 b ai3 sp l ing2 sp w u3 sh iii2 sp w u2 d ian3 q i1 y i1}|l iou4 w uan4 sp l ing2 sp s an1 b ai3 sp l ing2 sp w u3 sh iii2 sp w u2 d ian3 q i1 y i1
+SSB10910334|SSB1091|{t ang2 r en2 c uen1 q van2 g uo2 d i4 y i1 b ai2 j iou3 sh iii2 q i1 j ia1 l ian2 s uo3 d ian4}|t ang2 r en2 c uen1 q van2 g uo2 d i4 y i1 b ai2 j iou3 sh iii2 q i1 j ia1 l ian2 s uo3 d ian4
+SSB07620046|SSB0762|{e4 rr l ing2 y i1 w u3 n ian2 k ai1 n ian2 zh ong4 b ang4 sh iii3 sh iii1 j v4 zh iii4 sp h uo4 b i3 t e4 r en2 s an1}|e4 rr l ing2 y i1 w u3 n ian2 k ai1 n ian2 zh ong4 b ang4 sh iii3 sh iii1 j v4 zh iii4 sp h uo4 b i3 t e4 r en2 s an1
+SSB04270261|SSB0427|{l iou4 sh iii2 s an1 d ian3 l iou4}|l iou4 sh iii2 s an1 d ian3 l iou4
+SSB06090235|SSB0609|{y iou2 y v2 sh iii4 j ie4 j ing1 j i4 f a1 zh an3 sp b u4 p ing2 h eng2}|y iou2 y v2 sh iii4 j ie4 j ing1 j i4 f a1 zh an3 sp b u4 p ing2 h eng2
+SSB04260321|SSB0426|{h ai3 b ao4 sh ang4 h ai2 ch u1 x ian4 l e5 x van1 ch uan2 y v3 z ai4 zh an4 zh eng1 d e5 y in1 y ing3 x ia4}|h ai3 b ao4 sh ang4 h ai2 ch u1 x ian4 l e5 x van1 ch uan2 y v3 z ai4 zh an4 zh eng1 d e5 y in1 y ing3 x ia4
+SSB10910275|SSB1091|{l iou2 x ing2 zh e2 p eng1 p ai4 z ii1 l iao4 sp y iao1 zh an3 d e5 ch u2 l e5 sh ou2 l i3 d e5 g u3 p iao4}|l iou2 x ing2 zh e2 p eng1 p ai4 z ii1 l iao4 sp y iao1 zh an3 d e5 ch u2 l e5 sh ou2 l i3 d e5 g u3 p iao4
+SSB02410190|SSB0241|{ch en2 j ian4 zh ou1 sp z ai4 w uei1 b o2 sh ai4 ch u1 y v3 q i1 z ii3 sp f an4 w uei3 q i2 sp h e2 y ing3 sp b ing4 l iou2 y ian2}|ch en2 j ian4 zh ou1 sp z ai4 w uei1 b o2 sh ai4 ch u1 y v3 q i1 z ii3 sp f an4 w uei3 q i2 sp h e2 y ing3 sp b ing4 l iou2 y ian2
+SSB18630410|SSB1863|{zh ong1 g uo2 s an2 d a3 y i1 j ie3 sp e2 m ei3 d ie2}|zh ong1 g uo2 s an2 d a3 y i1 j ie3 sp e2 m ei3 d ie2
+SSB04350400|SSB0435|{j in1 l ai2 y van2 ch u1 y ian3 d e5 d ian4 y ing2 sp y iou2 sh en3 m e5}|j in1 l ai2 y van2 ch u1 y ian3 d e5 d ian4 y ing2 sp y iou2 sh en3 m e5
+SSB08630100|SSB0863|{j ing4 p ai1 zh e3 sp zh ong1 m in2 sp t ou2 j v3 p ai2 j ia1 j ia4 sp w u3 q ian1 w uan4 y van2}|j ing4 p ai1 zh e3 sp zh ong1 m in2 sp t ou2 j v3 p ai2 j ia1 j ia4 sp w u3 q ian1 w uan4 y van2
+SSB03380033|SSB0338|{h an2 y v3 g e1}|h an2 y v3 g e1
+SSB07460334|SSB0746|{k a3 s ii1 p a4 l uo2 f u1 sh iii4 t u2 y in3 y iou4 sp sh en1 l an2 j in4 r u4 y i2 g e4 x ian4 j ing3}|k a3 s ii1 p a4 l uo2 f u1 sh iii4 t u2 y in3 y iou4 sp sh en1 l an2 j in4 r u4 y i2 g e4 x ian4 j ing3
+SSB04070481|SSB0407|{n i3 j iou4 b u4 n eng2 l ai2 y i2 x ia4 m a5}|n i3 j iou4 b u4 n eng2 l ai2 y i2 x ia4 m a5
+SSB13200456|SSB1320|{w uo3 d e5 ch e1 t a1 m a1 y iou4 z ai4 n a3 rr}|w uo3 d e5 ch e1 t a1 m a1 y iou4 z ai4 n a3 rr
+SSB16300262|SSB1630|{z ai4 sp zh ong1 y van2 sp j ian1 k ong4 sp q v3 y iang4 d e5 sp j i3 g e4 sp q v1 y v4 zh ong1}|z ai4 sp zh ong1 y van2 sp j ian1 k ong4 sp q v3 y iang4 d e5 sp j i3 g e4 sp q v1 y v4 zh ong1
+SSB15930334|SSB1593|{f en1 x ing2 l ie4 d e5 x iao3 sh uo1 y iou3 sh en2 m e5}|f en1 x ing2 l ie4 d e5 x iao3 sh uo1 y iou3 sh en2 m e5
+SSB07160231|SSB0716|{n v3 r en2 h ua1 y ian3 y van2 sp y iou2 s en3 m e5}|n v3 r en2 h ua1 y ian3 y van2 sp y iou2 s en3 m e5
+SSB10550298|SSB1055|{s an1 w uan4 j iou3 q ian1 s ii4 b ai3 s ii4 sh iii2 y i1 d ian2 w u3 s ii4}|s an1 w uan4 j iou3 q ian1 s ii4 b ai3 s ii4 sh iii2 y i1 d ian2 w u3 s ii4
+SSB06290247|SSB0629|{z ai4 d uo1 x iang4 zh eng4 c e4 d e5 zh iii1 ch iii2 x ia4}|z ai4 d uo1 x iang4 zh eng4 c e4 d e5 zh iii1 ch iii2 x ia4
+SSB07360153|SSB0736|{n i3 g ang1 l ai2 m o4 d e2 s ii1 sp t uo1 m a5}|n i3 g ang1 l ai2 m o4 d e2 s ii1 sp t uo1 m a5
+SSB18630218|SSB1863|{z ong3 j i4 y i4 b ai3 t ao4 f ang2 y van2 z ai4 k ai1 p an2 d ang1 q ian1 sh ou4 q ing4}|z ong3 j i4 y i4 b ai3 t ao4 f ang2 y van2 z ai4 k ai1 p an2 d ang1 q ian1 sh ou4 q ing4
+SSB16500364|SSB1650|{g eng4 zh iii3 zh e4 sh iii4 j ia1 zh ang3 j i2 sh e4 h uei4 d e5 z e2 r en4}|g eng4 zh iii3 zh e4 sh iii4 j ia1 zh ang3 j i2 sh e4 h uei4 d e5 z e2 r en4
+SSB10000272|SSB1000|{x i3 h uan1 h e1 q i4 sh uei3 t a1 j iou4 g ei2 w uo2 m ai3 sp y i4 x iang1}|x i3 h uan1 h e1 q i4 sh uei3 t a1 j iou4 g ei2 w uo2 m ai3 sp y i4 x iang1
+SSB13410158|SSB1341|{sh u4 j ia1 p in3 p ai2 ch an2 p in3 l ing2 b u4 j ian4 sh iii4 sh iii2 s ang4 l ai2 z ii4 y v2 t ong2 y i2 j i4 sh u4 g ong1 y i4}|sh u4 j ia1 p in3 p ai2 ch an2 p in3 l ing2 b u4 j ian4 sh iii4 sh iii2 s ang4 l ai2 z ii4 y v2 t ong2 y i2 j i4 sh u4 g ong1 y i4
+SSB05440103|SSB0544|{y van3 b u2 d ao4 p in1 j ia4 g e2 d e5 sh iii2 h ou4}|y van3 b u2 d ao4 p in1 j ia4 g e2 d e5 sh iii2 h ou4
+SSB09350355|SSB0935|{sh iii4 q v4 n ian2 t ong2 q i1 d e5 s an1 d ian3 b a1 b ei4}|sh iii4 q v4 n ian2 t ong2 q i1 d e5 s an1 d ian3 b a1 b ei4
+SSB06010388|SSB0601|{w uo3 q in1 k ou3 ch ang2 d ao4 l e5 t a1 m en5 sp g u3 h uei1 d e5 w uei4 d ao4}|w uo3 q in1 k ou3 ch ang2 d ao4 l e5 t a1 m en5 sp g u3 h uei1 d e5 w uei4 d ao4
+SSB03150069|SSB0315|{s an1 sh iii4 r u2 h e2 f a1 x ian4 y iou3 x iao4 d e5 j iou4 f ang2 g ai3 z ao4 m o2 sh iii4}|s an1 sh iii4 r u2 h e2 f a1 x ian4 y iou3 x iao4 d e5 j iou4 f ang2 g ai3 z ao4 m o2 sh iii4
+SSB10500049|SSB1050|{j ian3 f ang1 z ao3 j iou4 zh iii1 d ao4 l a5}|j ian3 f ang1 z ao3 j iou4 zh iii1 d ao4 l a5
+SSB03390440|SSB0339|{z uo4 w uei2 l ong2 h u2 d i4 ch an3 b ie2 sh u4 z uei4 g ao1 p in3 zh iii4 d e5 y van2 zh u4 x i4 z uo4 p in3}|z uo4 w uei2 l ong2 h u2 d i4 ch an3 b ie2 sh u4 z uei4 g ao1 p in3 zh iii4 d e5 y van2 zh u4 x i4 z uo4 p in3
+SSB07100489|SSB0710|{ch a2 sp x ia4 y ve4 d e5 g e1}|ch a2 sp x ia4 y ve4 d e5 g e1
+SSB02460205|SSB0246|{y i4 f ang1 m ian4 w uei4 w uo3 m en5 k ai1 p i4 l e5 g ao1 x iao4 b ian4 l i4 d e5 g ou1 t ong1 q v2 d ao4}|y i4 f ang1 m ian4 w uei4 w uo3 m en5 k ai1 p i4 l e5 g ao1 x iao4 b ian4 l i4 d e5 g ou1 t ong1 q v2 d ao4
+SSB12530325|SSB1253|{y iou2 y v2 x in4 y iong4 zh eng4 b ei4 sh u1 b u4 n eng2 x iang4 p iao4 j v4 x in4 t uo1 k e2 y i3 l iou2 zh uan3}|y iou2 y v2 x in4 y iong4 zh eng4 b ei4 sh u1 b u4 n eng2 x iang4 p iao4 j v4 x in4 t uo1 k e2 y i3 l iou2 zh uan3
+SSB02990434|SSB0299|{x ian4 z ai4 n i3 y iao4 d a3 k ai1 n a4 sh an4 m en2 d e5 s uo3}|x ian4 z ai4 n i3 y iao4 d a3 k ai1 n a4 sh an4 m en2 d e5 s uo3
+SSB12530187|SSB1253|{x iang2 m ian3 f ei4 sh iii4 y iong4 q van2 q iou2 z uei4 h ao3 d e5 k u4 w uang2 x in1 p in3 m a5}|x iang2 m ian3 f ei4 sh iii4 y iong4 q van2 q iou2 z uei4 h ao3 d e5 k u4 w uang2 x in1 p in3 m a5
+SSB18780407|SSB1878|{zh e4 j iang1 b an3 x i1 y iou2 j i4}|zh e4 j iang1 b an3 x i1 y iou2 j i4
+SSB08510503|SSB0851|{h e2 n an2 g ong1 k e1 y van4 x iao4 y iou3 sh en2 m e5}|h e2 n an2 g ong1 k e1 y van4 x iao4 y iou3 sh en2 m e5
+SSB07160474|SSB0716|{n an2 z ii2 m a3 l a1 s ong1 j iang1 d a2 x iang2 c ii3 c ii4 s ii4 j in3 s ai4 d e5 j ie1 m u4 z ang4}|n an2 z ii2 m a3 l a1 s ong1 j iang1 d a2 x iang2 c ii3 c ii4 s ii4 j in3 s ai4 d e5 j ie1 m u4 z ang4
+SSB03410310|SSB0341|{l ing4 g uo2 n ei4 t ie3 r en2 s an1 x iang4 sp ai4 h ao4 zh e3 sp sh ou4 sp y i4}|l ing4 g uo2 n ei4 t ie3 r en2 s an1 x iang4 sp ai4 h ao4 zh e3 sp sh ou4 sp y i4
+SSB19560097|SSB1956|{zh e4 sh iii4 t a1 j in1 t ian1 d uo2 g uan1 d e5 sp z uei4 g uan1 j ian4 y in1 s u4}|zh e4 sh iii4 t a1 j in1 t ian1 d uo2 g uan1 d e5 sp z uei4 g uan1 j ian4 y in1 s u4
+SSB06710015|SSB0671|{h ai3 w uai4 sh iii4 w uei4 l ai2 g eng4 d a4 d e5 sp z eng1 zh ang2 d ian3}|h ai3 w uai4 sh iii4 w uei4 l ai2 g eng4 d a4 d e5 sp z eng1 zh ang2 d ian3
+SSB06030473|SSB0603|{c e4 s uo3 zh eng4 d uei4 d e5 s u4 sh e4 l ou2 zh an4 m an3 l e5 y i4 l ian3 sp j ing1 k ong3 d e5 w uei2 g uan1 g ong1 r en5}|c e4 s uo3 zh eng4 d uei4 d e5 s u4 sh e4 l ou2 zh an4 m an3 l e5 y i4 l ian3 sp j ing1 k ong3 d e5 w uei2 g uan1 g ong1 r en5
+SSB12190244|SSB1219|{w uo3 m en5 zh iii1 d ao4 n i3 sh ou4 d ao4 g uo4 b u4 g ong1 p ing2 d uei4 d ai4}|w uo3 m en5 zh iii1 d ao4 n i3 sh ou4 d ao4 g uo4 b u4 g ong1 p ing2 d uei4 d ai4
+SSB07620336|SSB0762|{f ei1 x iang3 d i4 y i1 c ii4 sp t ong1 g uo4 ch ao1 sh eng1 b o1 t ing1 d ao4 x iao3 zh ou1 zh ou1 x in1 z ang4 sh eng1 sh iii2}|f ei1 x iang3 d i4 y i1 c ii4 sp t ong1 g uo4 ch ao1 sh eng1 b o1 t ing1 d ao4 x iao3 zh ou1 zh ou1 x in1 z ang4 sh eng1 sh iii2
+SSB13280228|SSB1328|{j ian4 l i4 w uan2 sh an4 r en2 c ai2 sp p ei2 y iang3 g uei1 h ua4}|j ian4 l i4 w uan2 sh an4 r en2 c ai2 sp p ei2 y iang3 g uei1 h ua4
+SSB09350379|SSB0935|{y ie4 n ei4 z ao2 y i3 t an4 t ao3 l e5 h en3 d uo1}|y ie4 n ei4 z ao2 y i3 t an4 t ao3 l e5 h en3 d uo1
+SSB08220392|SSB0822|{ch en2 y i4 x vn4 d e5 sp h ong2 m ei2 g uei1}|ch en2 y i4 x vn4 d e5 sp h ong2 m ei2 g uei1
+SSB08220062|SSB0822|{g eng4 x iang4 sh iii4 y i4 m ing2 sp t u3 sh eng1 t u2 zh ang3 d e5 g ao1 sh uei3 p ing2 sp t ai4 g uo2 q van2 sh ou3}|g eng4 x iang4 sh iii4 y i4 m ing2 sp t u3 sh eng1 t u2 zh ang3 d e5 g ao1 sh uei3 p ing2 sp t ai4 g uo2 q van2 sh ou3
+SSB05880413|SSB0588|{d an4 sh ou3 h u4 t ian1 sh iii3 sp y iao4 w uo3 f a1 sh iii4 b u4 sh uo1 ch u1 q v5}|d an4 sh ou3 h u4 t ian1 sh iii3 sp y iao4 w uo3 f a1 sh iii4 b u4 sh uo1 ch u1 q v5
+SSB11870033|SSB1187|{h ao2 zh ai2 sh iii4 ch ang3 d e5 sp ch iii2 x v4 z ou3 sp g ao1}|h ao2 zh ai2 sh iii4 ch ang3 d e5 sp ch iii2 x v4 z ou3 sp g ao1
+SSB10720127|SSB1072|{h ua1 f ei4 d uo1 x iao3 sh iii2 ao2 g u3 t ou2 t ang1 d e5}|h ua1 f ei4 d uo1 x iao3 sh iii2 ao2 g u3 t ou2 t ang1 d e5
+SSB07600032|SSB0760|{y iou3 t e4 d ing4 d e5 zh uan1 y ing2 sh iii4 ch ang3 m a5}|y iou3 t e4 d ing4 d e5 zh uan1 y ing2 sh iii4 ch ang3 m a5
+SSB11250382|SSB1125|{h ai2 sh iii4 h u4 l ian2 w uang3 d a4 sh u4 j v4 zh iii4 n eng2 ch uan2 g an2 d eng3}|h ai2 sh iii4 h u4 l ian2 w uang3 d a4 sh u4 j v4 zh iii4 n eng2 ch uan2 g an2 d eng3
+SSB03750019|SSB0375|{z a2 zh iii4 b ao4 zh iii2 y iou3 sh en2 m e5}|z a2 zh iii4 b ao4 zh iii2 y iou3 sh en2 m e5
+SSB11250333|SSB1125|{r an2 h ou4 r en2 m en5 j iou4 h uei4 t ing1 c ong2 y v2 n i3 m en5}|r an2 h ou4 r en2 m en5 j iou4 h uei4 t ing1 c ong2 y v2 n i3 m en5
+SSB13820304|SSB1382|{n i3 sh uei4 q i2 t a1 r en2}|n i3 sh uei4 q i2 t a1 r en2
+SSB06010480|SSB0601|{n a4 y iang4 w uo3 j iou4 k e2 y i3 sp z ai4 p ai4 d uei4 sh ang4 sp d uei4 sp l in2 s ai4 sp c ai2 q v3 x ing2 d ong4 l e5}|n a4 y iang4 w uo3 j iou4 k e2 y i3 sp z ai4 p ai4 d uei4 sh ang4 sp d uei4 sp l in2 s ai4 sp c ai2 q v3 x ing2 d ong4 l e5
+SSB04350117|SSB0435|{y i3 j i2 y ing4 d uei4 g e4 r en2 x in4 x i1 x ie4 l ou4 d e5 f eng1 x ian3}|y i3 j i2 y ing4 d uei4 g e4 r en2 x in4 x i1 x ie4 l ou4 d e5 f eng1 x ian3
+SSB05020085|SSB0502|{f ang2 d i4 ch an3 g ong1 s ii1 j in1 n ian2 b i4 x v1 ch ang2 h uan2 sp y i4 q ian1 y i4 y van2 x in4 t uo1 z ii1 j in1}|f ang2 d i4 ch an3 g ong1 s ii1 j in1 n ian2 b i4 x v1 ch ang2 h uan2 sp y i4 q ian1 y i4 y van2 x in4 t uo1 z ii1 j in1
+SSB03820395|SSB0382|{b ei4 r en2 f a1 x ian4 t ang3 z ai4 ch uang2 sh ang4 y i3 w u2 f a3 d ong4 t an5}|b ei4 r en2 f a1 x ian4 t ang3 z ai4 ch uang2 sh ang4 y i3 w u2 f a3 d ong4 t an5
+SSB02730386|SSB0273|{b u4 x iao3 x in1 j iang1 w u3 w uan4 y van2 x ian4 j in1 sp c uen2 j in4 sp y i3 g u4 q ian2 f u1 d e5 sp c uen2 zh e2 n ei4}|b u4 x iao3 x in1 j iang1 w u3 w uan4 y van2 x ian4 j in1 sp c uen2 j in4 sp y i3 g u4 q ian2 f u1 d e5 sp c uen2 zh e2 n ei4
+SSB05940397|SSB0594|{z uei4 j in4 s u1 b ing3 t ian1 h uan4 sh ang4 g an3 m ao4}|z uei4 j in4 s u1 b ing3 t ian1 h uan4 sh ang4 g an3 m ao4
+SSB06140378|SSB0614|{h ua4 zh uang1 p in3 d e5 q i3 y ie4 sp y iou3 sh en2 m e5}|h ua4 zh uang1 p in3 d e5 q i3 y ie4 sp y iou3 sh en2 m e5
+SSB05780026|SSB0578|{y in1 w uei4 w uo3 g en1 zh ang4 f u1 y ie2 x i3 h uan1 x iao3 p eng2 y iou4}|y in1 w uei4 w uo3 g en1 zh ang4 f u1 y ie2 x i3 h uan1 x iao3 p eng2 y iou4
+SSB14480112|SSB1448|{d uei4 y v2 g ong1 s ii1 j ian4 k ang1 ch iii2 x v4 f a1 zh an3 sp d ou1 sh iii4 j v4 d a4 w uei1 x ie2}|d uei4 y v2 g ong1 s ii1 j ian4 k ang1 ch iii2 x v4 f a1 zh an3 sp d ou1 sh iii4 j v4 d a4 w uei1 x ie2
+SSB18720018|SSB1872|{g uang3 d ong1 h e2 y van2 n an2 z ii3 y i2 s ii4 sp j ing1 sh en2 b ing4 f a1 z uo4 sp ch iii2 sp c ai4 d ao1 l uan4 k an3 s an1 r en2 sh ou4 sh ang1}|g uang3 d ong1 h e2 y van2 n an2 z ii3 y i2 s ii4 sp j ing1 sh en2 b ing4 f a1 z uo4 sp ch iii2 sp c ai4 d ao1 l uan4 k an3 s an1 r en2 sh ou4 sh ang1
+SSB17590013|SSB1759|{w uo3 z ai4 g ou3 g ou5 g ong1 y van4 m ei2 k an4 d ao4 n i3}|w uo3 z ai4 g ou3 g ou5 g ong1 y van4 m ei2 k an4 d ao4 n i3
+SSB06010279|SSB0601|{n a4 sh iii4 t a1 m en5 j ia1}|n a4 sh iii4 t a1 m en5 j ia1
+SSB15550371|SSB1555|{j in4 r u4 b a1 y ve4 h ou4 h ai2 n eng2 sp y iou3 zh e4 m e5 d ian1 f eng1 d e5 zh uang4 t ai4}|j in4 r u4 b a1 y ve4 h ou4 h ai2 n eng2 sp y iou3 zh e4 m e5 d ian1 f eng1 d e5 zh uang4 t ai4
+SSB10500427|SSB1050|{w u3 q ian1 l ing2 sp s an1 sh iii2 sp y i1 d ian3 l iou4}|w u3 q ian1 l ing2 sp s an1 sh iii2 sp y i1 d ian3 l iou4
+SSB17110478|SSB1711|{h ao2 zh ou1 sh iii4 y i2 d ao4 l u4 x iang4 m u4 z ai4 sh iii1 g ong1 g uo4 ch eng2 zh ong1 sh u1 h u1 d a4 y i4}|h ao2 zh ou1 sh iii4 y i2 d ao4 l u4 x iang4 m u4 z ai4 sh iii1 g ong1 g uo4 ch eng2 zh ong1 sh u1 h u1 d a4 y i4
+SSB03420337|SSB0342|{t a1 h uei2 d a2 w uo3 j ve2 d e5 z ai4 r en4 sh iii5 d e5 sh iii2 h ou5}|t a1 h uei2 d a2 w uo3 j ve2 d e5 z ai4 r en4 sh iii5 d e5 sh iii2 h ou5
+SSB03160288|SSB0316|{j ing1 m en2 d e5 r en2 w u4 sp y iou3 sh en2 m e5}|j ing1 m en2 d e5 r en2 w u4 sp y iou3 sh en2 m e5
+SSB16070215|SSB1607|{d u4 r uei4 sh eng1 b ei4 y v4 w uei2 zh ong1 g uo2 n ong2 c uen1 g ai3 g e2 zh iii1 f u4}|d u4 r uei4 sh eng1 b ei4 y v4 w uei2 zh ong1 g uo2 n ong2 c uen1 g ai3 g e2 zh iii1 f u4
+SSB09130207|SSB0913|{g e1 g e1 m ei4 m ei4}|g e1 g e1 m ei4 m ei4
+SSB19180014|SSB1918|{z ai4 sp e4 rr l ing2 y i1 s an1 n ian2 d e5 b i3 s ai4 zh ong1}|z ai4 sp e4 rr l ing2 y i1 s an1 n ian2 d e5 b i3 s ai4 zh ong1
+SSB10720198|SSB1072|{w uan2 q van2 y iong1 y iou3 z ai4 sh u3 q i1 d ang3 j ing4 zh eng1 p iao4 f ang2 d e5 sh iii2 l i4}|w uan2 q van2 y iong1 y iou3 z ai4 sh u3 q i1 d ang3 j ing4 zh eng1 p iao4 f ang2 d e5 sh iii2 l i4
+SSB07020475|SSB0702|{f u2 zh ou1 d e5 p in3 p ai2 y iou3 sh en2 m e5}|f u2 zh ou1 d e5 p in3 p ai2 y iou3 sh en2 m e5
+SSB02870208|SSB0287|{f a1 zh an3 zh iii4 n eng2 sh ou2 b iao3 b ing4 b u2 y i4 w uei4 zh e5 sp x v1 y iao4 f ou3 d ing4 ch uan2 t ong4 sh ou2 b iao3}|f a1 zh an3 zh iii4 n eng2 sh ou2 b iao3 b ing4 b u2 y i4 w uei4 zh e5 sp x v1 y iao4 f ou3 d ing4 ch uan2 t ong4 sh ou2 b iao3
+SSB18320183|SSB1832|{d ong1 g uan3 d e5 sp y i2 g e4 y iong4 g ong1 ch eng2 b en3 sp d a4 g ai4 sh iii4 sp e4 rr b ai2 w u3 sh iii2 l iou4 y van2}|d ong1 g uan3 d e5 sp y i2 g e4 y iong4 g ong1 ch eng2 b en3 sp d a4 g ai4 sh iii4 sp e4 rr b ai2 w u3 sh iii2 l iou4 y van2
+SSB07840437|SSB0784|{p in2 s en2 m e5 s uo1}|p in2 s en2 m e5 s uo1
+SSB07170410|SSB0717|{sh iii4 y iang2 y i1 sh eng1 zh ao2 w uo3 m a5}|sh iii4 y iang2 y i1 sh eng1 zh ao2 w uo3 m a5
+SSB06860411|SSB0686|{s an1 b ai2 j iou3 sh iii2 s an1 w uan4 l iou4 q ian1 b a1 b ai3 y i1 sh iii2 e4 rr d ian3 rr sp e4 rr y i1}|s an1 b ai2 j iou3 sh iii2 s an1 w uan4 l iou4 q ian1 b a1 b ai3 y i1 sh iii2 e4 rr d ian3 rr sp e4 rr y i1
+SSB05900054|SSB0590|{t a1 x i3 h uan1 sp t an2 l uen4 sp g e4 g e4 sh iii2 d ai4 d e5 sp j ing1 sh en2 l ing3 sp x iou4}|t a1 x i3 h uan1 sp t an2 l uen4 sp g e4 g e4 sh iii2 d ai4 d e5 sp j ing1 sh en2 l ing3 sp x iou4
+SSB07940033|SSB0794|{sh ang4 sh iii4 f ang2 j i3 sp y i3 l u4 x v4 g ong1 b u4 j i1 y ve4 x iao1 sh ou4 j ian3 b ao4}|sh ang4 sh iii4 f ang2 j i3 sp y i3 l u4 x v4 g ong1 b u4 j i1 y ve4 x iao1 sh ou4 j ian3 b ao4
+SSB05390313|SSB0539|{j ie2 s en1 z en3 m e5 zh iii1 d ao4 n i3 sh iii4 sh an3 d ian4 x ia2 d e5}|j ie2 s en1 z en3 m e5 zh iii1 d ao4 n i3 sh iii4 sh an3 d ian4 x ia2 d e5
+SSB13930093|SSB1393|{w uo2 d a3 l e5 q i1 c ii4 d ian4 h ua4 d e5 n i3}|w uo2 d a3 l e5 q i1 c ii4 d ian4 h ua4 d e5 n i3
+SSB03230445|SSB0323|{y i4 ch ong3 h ua1 x ve3 y ve4 d e5 sh iii4}|y i4 ch ong3 h ua1 x ve3 y ve4 d e5 sh iii4
+SSB11260088|SSB1126|{g en1 j v4 ao4 zh ou1 x in1 k uai4 w uang3 b ao4 d ao4}|g en1 j v4 ao4 zh ou1 x in1 k uai4 w uang3 b ao4 d ao4
+SSB03090204|SSB0309|{j ian1 ch a2 r iii4 b ao4 sp y i1 y ve4 l ing2 sp s an1 r iii4 x iao1 x i1}|j ian1 ch a2 r iii4 b ao4 sp y i1 y ve4 l ing2 sp s an1 r iii4 x iao1 x i1
+SSB15850087|SSB1585|{h uei4 d uei4 ch ang2 f u4 n eng2 l i4 ch an3 sh eng1 b i3 j iao4 d a4 d e5 y ing2 x iang3}|h uei4 d uei4 ch ang2 f u4 n eng2 l i4 ch an3 sh eng1 b i3 j iao4 d a4 d e5 y ing2 x iang3
+SSB15850029|SSB1585|{w uo2 x iang3 t ing1 sh ou3 g e1 sp l ao3 m ao1 sp w uang2 l in2 d e5 g e1}|w uo2 x iang3 t ing1 sh ou3 g e1 sp l ao3 m ao1 sp w uang2 l in2 d e5 g e1
+SSB07170039|SSB0717|{q v3 d e5 l ian2 x i4 sh iii2 d e5 x i1 d u2 zh e3 y i2 y iang4}|q v3 d e5 l ian2 x i4 sh iii2 d e5 x i1 d u2 zh e3 y i2 y iang4
+SSB07510265|SSB0751|{l ao3 p o2 k uen1 l ing2 y ie3 sh iii4 t a1 d e5 zh an4 y iou3}|l ao3 p o2 k uen1 l ing2 y ie3 sh iii4 t a1 d e5 zh an4 y iou3
+SSB17110452|SSB1711|{d uei4 w uo3 l ai2 sh uo1 d uei4 sh ou3 y iou2 h en3 q iang2 d e5 sh iii2 l i4}|d uei4 w uo3 l ai2 sh uo1 d uei4 sh ou3 y iou2 h en3 q iang2 d e5 sh iii2 l i4
+SSB09930085|SSB0993|{b u2 y iao4 k ao4 j in4 t a1}|b u2 y iao4 k ao4 j in4 t a1
+SSB16300330|SSB1630|{w uo3 zh uen2 n i3 c an1 j ia1 sp f ei1 x ing2 x ve2 x iao4}|w uo3 zh uen2 n i3 c an1 j ia1 sp f ei1 x ing2 x ve2 x iao4
+SSB15670169|SSB1567|{s uei1 r an2 n v3 x ing4 c an1 x van3 y i3 j ing1 b u2 sh iii4 sh en2 m e5 x in1 x ian1 sh iii4}|s uei1 r an2 n v3 x ing4 c an1 x van3 y i3 j ing1 b u2 sh iii4 sh en2 m e5 x in1 x ian1 sh iii4
+SSB16990274|SSB1699|{g ou4 f ang2 r en2 h e2 k ai1 f a1 j ian4 sh e4 d an1 w uei4 y in1 zh uang1 x iou1 g ong1 ch eng2 zh iii4 l iang4 f a1 sh eng1 sp f en1 q i2 j i2 j iou1 f en1}|g ou4 f ang2 r en2 h e2 k ai1 f a1 j ian4 sh e4 d an1 w uei4 y in1 zh uang1 x iou1 g ong1 ch eng2 zh iii4 l iang4 f a1 sh eng1 sp f en1 q i2 j i2 j iou1 f en1
+SSB06290330|SSB0629|{z ai4 c an1 y v2 d iao4 ch a2 d e5 w uang2 y iou3 zh ong1}|z ai4 c an1 y v2 d iao4 ch a2 d e5 w uang2 y iou3 zh ong1
+SSB03940145|SSB0394|{t a1 g an1 c uei4 f ang4 q i4 l e5 s ii4 zh an4 sp g uo2 j i4 t ian2 l ian2 z uan4 sh iii2 sp l ian2 s ai4}|t a1 g an1 c uei4 f ang4 q i4 l e5 s ii4 zh an4 sp g uo2 j i4 t ian2 l ian2 z uan4 sh iii2 sp l ian2 s ai4
+SSB11150477|SSB1115|{r uei4 an1 sp d e5 d i4 m ing2 y iou2 sh en3 m e5}|r uei4 an1 sp d e5 d i4 m ing2 y iou2 sh en3 m e5
+SSB19390054|SSB1939|{y iou2 g e4 d e4 z ai4 sh uei4 f a3 g uei1 d ing4 d e5 sp f u2 d u4 y i3 n ei4 zh ang3 w uo4}|y iou2 g e4 d e4 z ai4 sh uei4 f a3 g uei1 d ing4 d e5 sp f u2 d u4 y i3 n ei4 zh ang3 w uo4
+SSB07480383|SSB0748|{d an4 sh iii4 zh ang1 y v3 zh en4 d e5 ch ang3 w uai4 zh iii2 d ao3 y i4 b a3 j iang1 sp an4 zh u4 zh ang1 y v3 zh en4 d e5 j ian1 b ang3 sh ang4}|d an4 sh iii4 zh ang1 y v3 zh en4 d e5 ch ang3 w uai4 zh iii2 d ao3 y i4 b a3 j iang1 sp an4 zh u4 zh ang1 y v3 zh en4 d e5 j ian1 b ang3 sh ang4
+SSB06710276|SSB0671|{h ao2 j iou3 b u2 j ian4 sp ch en2 y i4 x vn4}|h ao2 j iou3 b u2 j ian4 sp ch en2 y i4 x vn4
+SSB10960265|SSB1096|{l iou4 j iou2 j iou3 s ii4 w u3 y iao1 s an1 s an1}|l iou4 j iou2 j iou3 s ii4 w u3 y iao1 s an1 s an1
+SSB07860378|SSB0786|{n v2 z ii3 b ao4 x iao3 h ai2 rr z uo4 sp y i1 y van4 sp r u4 k ou3 q i2 t ao5 b ao3 an1 sp d uen1 d i4 sh ang4 j v3 p ai2 rr j ie1 p ian4}|n v2 z ii3 b ao4 x iao3 h ai2 rr z uo4 sp y i1 y van4 sp r u4 k ou3 q i2 t ao5 b ao3 an1 sp d uen1 d i4 sh ang4 j v3 p ai2 rr j ie1 p ian4
+SSB05880445|SSB0588|{n ong4 h ao3 l e5 m a3 sh ang4 l ai2 zh ao2 w uo3}|n ong4 h ao3 l e5 m a3 sh ang4 l ai2 zh ao2 w uo3
+SSB07510386|SSB0751|{sh iii4 y ie4 d an1 w uei4 zh ao1 sp p in4 sp b i3 sh iii4 d i4 y i1 m ing2}|sh iii4 y ie4 d an1 w uei4 zh ao1 sp p in4 sp b i3 sh iii4 d i4 y i1 m ing2
+SSB13020147|SSB1302|{w uo2 y i3 j ing1 x ie3 l e5 y i4 sh ou3 g e1}|w uo2 y i3 j ing1 x ie3 l e5 y i4 sh ou3 g e1
+SSB12040245|SSB1204|{w uo3 m en5 x ing1 q i1 y i1 j ian4 m ian4}|w uo3 m en5 x ing1 q i1 y i1 j ian4 m ian4
+SSB04070210|SSB0407|{h uang2 j ian4 zh ong1 d ao2 y ian3 d e5 d ian4 sh iii4 j v4 sp y iou3 sh en2 m o5}|h uang2 j ian4 zh ong1 d ao2 y ian3 d e5 d ian4 sh iii4 j v4 sp y iou3 sh en2 m o5
+SSB07000441|SSB0700|{d i1 ch eng2 b en3 rr sp d uei4 sp l ian4 t iao2 zh ong1 d e5 z ii1 j in1 sp j in4 x ing2 sp z uei4 d a4 x ian4 d u4 d e5 zh eng3 h e2}|d i1 ch eng2 b en3 rr sp d uei4 sp l ian4 t iao2 zh ong1 d e5 z ii1 j in1 sp j in4 x ing2 sp z uei4 d a4 x ian4 d u4 d e5 zh eng3 h e2
+SSB07860206|SSB0786|{zh e4 sh iii4 y i1 g ai3 j i1 zh iii4 f ang1 m ian4 d e5 zh ong4 d a4 ch uang4 x in1 h e2 t u1 p o4}|zh e4 sh iii4 y i1 g ai3 j i1 zh iii4 f ang1 m ian4 d e5 zh ong4 d a4 ch uang4 x in1 h e2 t u1 p o4
+SSB07170157|SSB0717|{h ai2 sh iii4 j in1 w uan3 sh iii4 t a1 d e5 zh uang3 zh e2 d ian3}|h ai2 sh iii4 j in1 w uan3 sh iii4 t a1 d e5 zh uang3 zh e2 d ian3
+SSB16860252|SSB1686|{zh ong1 g uo2 r en2 m in2 sp d a4 x ve2 z e2 h uei2 y ing4}|zh ong1 g uo2 r en2 m in2 sp d a4 x ve2 z e2 h uei2 y ing4
+SSB05650269|SSB0565|{y iao1 l ing2 j iou3 l u4 h ong2 q iao2 b ei3 zh an4}|y iao1 l ing2 j iou3 l u4 h ong2 q iao2 b ei3 zh an4
+SSB07230169|SSB0723|{s ii4 d ian3 s ii4 j iou3 q i1 e4 rr}|s ii4 d ian3 s ii4 j iou3 q i1 e4 rr
+SSB07100411|SSB0710|{w u2 x i1 h ua2 y ve4 q i3 zh ong4 j i1 x ie4 ch ang3 sp g ong1 h uei4 sp w uei3 y van2 h uei4}|w u2 x i1 h ua2 y ve4 q i3 zh ong4 j i1 x ie4 ch ang3 sp g ong1 h uei4 sp w uei3 y van2 h uei4
+SSB06060214|SSB0606|{j in4 g uan3 ch uan2 t ong3 d e5 d ian4 sh iii4 g uan1 zh ong4 sp y i3 j ing1 zh uan3 x iang4 l e5 q i2 t a1 d i1 ch eng2 b en3 d e5 sp sh u4 z ii4 m ei2 t i3}|j in4 g uan3 ch uan2 t ong3 d e5 d ian4 sh iii4 g uan1 zh ong4 sp y i3 j ing1 zh uan3 x iang4 l e5 q i2 t a1 d i1 ch eng2 b en3 d e5 sp sh u4 z ii4 m ei2 t i3
+SSB13650232|SSB1365|{ch en2 j ian4 zh ou1 f u4 w uen2 x ie3 d ao4 sp f ei1 f ei1 sp w uei4 sh en2 m e5 n i3 k e2 y i3 ch uan1 d e5 n a4 m e5 x i3 q i4}|ch en2 j ian4 zh ou1 f u4 w uen2 x ie3 d ao4 sp f ei1 f ei1 sp w uei4 sh en2 m e5 n i3 k e2 y i3 ch uan1 d e5 n a4 m e5 x i3 q i4
+SSB11760072|SSB1176|{t an4 f ang3 n a4 x ie1 sp f eng1 j ing3 sp d u2 h ao3 d e5 sh iii2 d a4 h ua2 x ve3 sh eng4 d i4 w uen1 q van2 y v4 ch iii2 j i2 y iong3 ch iii2}|t an4 f ang3 n a4 x ie1 sp f eng1 j ing3 sp d u2 h ao3 d e5 sh iii2 d a4 h ua2 x ve3 sh eng4 d i4 w uen1 q van2 y v4 ch iii2 j i2 y iong3 ch iii2
+SSB10020143|SSB1002|{r iii4 x i4 p in3 p ai2 r eng2 ch u3 y v2 d i1 w uei4 z eng1 zh ang3}|r iii4 x i4 p in3 p ai2 r eng2 ch u3 y v2 d i1 w uei4 z eng1 zh ang3
+SSB06010068|SSB0601|{p i2 j iou1 g uang3 g ao4 w uang2 w uang2 x ian3 d e5 y iou3 n an2 z ii3 q i4 g ai4}|p i2 j iou1 g uang3 g ao4 w uang2 w uang2 x ian3 d e5 y iou3 n an2 z ii3 q i4 g ai4
+SSB03090429|SSB0309|{j iang3 b u4 ch u2 z ai4 j ian4}|j iang3 b u4 ch u2 z ai4 j ian4
+SSB13920234|SSB1392|{zh ai4 j van4 sh iii4 ch ang3 x iang1 sp b i3 sp q ian2 j i3 n ian2 sp g uei1 m o2 f ei1 sp s u4 k uo4 d a4}|zh ai4 j van4 sh iii4 ch ang3 x iang1 sp b i3 sp q ian2 j i3 n ian2 sp g uei1 m o2 f ei1 sp s u4 k uo4 d a4
+SSB13020068|SSB1302|{d i4 s an1 j ie4 d e5 j i1 h uei4 sh u3 y v2 e4 rr l ei4 b u2 q ve4 d ing4 x ing4 z uei4 g ao1 d e5 x in1 x ing1 sh iii4 ch ang3 f an4 w uei2}|d i4 s an1 j ie4 d e5 j i1 h uei4 sh u3 y v2 e4 rr l ei4 b u2 q ve4 d ing4 x ing4 z uei4 g ao1 d e5 x in1 x ing1 sh iii4 ch ang3 f an4 w uei2
+SSB15850229|SSB1585|{e2 rr z ai4 t e4 sh u1 g uan3 x ia2 q v1 l ing3 y v4 n ei4}|e2 rr z ai4 t e4 sh u1 g uan3 x ia2 q v1 l ing3 y v4 n ei4
+SSB02410159|SSB0241|{f ang4 g e4 g e1}|f ang4 g e4 g e1
+SSB04150009|SSB0415|{zh e4 sh iii4 l iou2 g ei2 zh u3 j iao4 l ian4 x ie4 g uo2 ch en2 sp h e2 zh ong1 g uo2 n an2 p ai2 d e5 sp x in1 w uen4 t i2}|zh e4 sh iii4 l iou2 g ei2 zh u3 j iao4 l ian4 x ie4 g uo2 ch en2 sp h e2 zh ong1 g uo2 n an2 p ai2 d e5 sp x in1 w uen4 t i2
+SSB11100494|SSB1110|{w uo3 h ai2 sh iii4 x i1 w uang4 sp n i3 n eng2 sp w uan2 d e5 sp k ai1 x in1}|w uo3 h ai2 sh iii4 x i1 w uang4 sp n i3 n eng2 sp w uan2 d e5 sp k ai1 x in1
+SSB02870204|SSB0287|{s uen2 zh e5 n ian2 l ing2 d e5 z eng1 zh ang3 h e2 n ian2 q ing1 d uei4 y van2 d e5 y iong3 x ian4}|s uen2 zh e5 n ian2 l ing2 d e5 z eng1 zh ang3 h e2 n ian2 q ing1 d uei4 y van2 d e5 y iong3 x ian4
+SSB17110227|SSB1711|{w uo3 m en5 d ou1 y i3 w uei2 l ao3 zh an4 p ao2 m a3 l a1 s ong1 y iou3 x ie1 z ou2 h uo3 r u4 m o2 l e5}|w uo3 m en5 d ou1 y i3 w uei2 l ao3 zh an4 p ao2 m a3 l a1 s ong1 y iou3 x ie1 z ou2 h uo3 r u4 m o2 l e5
+SSB16300379|SSB1630|{m ei3 c ii4 z ai4 w uo3 d ong4 sh ou3 q ian2 n i3 j iou4 sp q v1 f u2 l e5}|m ei3 c ii4 z ai4 w uo3 d ong4 sh ou3 q ian2 n i3 j iou4 sp q v1 f u2 l e5
+SSB18720437|SSB1872|{l an2 k ong3 q ve4 b in1 g uan3}|l an2 k ong3 q ve4 b in1 g uan3
+SSB07200019|SSB0720|{q i1 d ai4 d ang1 d i4 x iang1 g uan1 b u4 m en2 j in4 k uai4 n a2 ch u1 q ie4 sh iii2 k e3 x ing2 d e5 c uo4 sh iii1}|q i1 d ai4 d ang1 d i4 x iang1 g uan1 b u4 m en2 j in4 k uai4 n a2 ch u1 q ie4 sh iii2 k e3 x ing2 d e5 c uo4 sh iii1
+SSB03230475|SSB0323|{zh e4 j iang1 sp p o4 h uo4 w uang3 sp l uo4 zh ao1 sp p iao2 an4 sh uang1 b ao1 t ai1 y i2 y ie4 s ii4 w u3 sp w uan4 w u3}|zh e4 j iang1 sp p o4 h uo4 w uang3 sp l uo4 zh ao1 sp p iao2 an4 sh uang1 b ao1 t ai1 y i2 y ie4 s ii4 w u3 sp w uan4 w u3
+SSB03420028|SSB0342|{l ai2 sh ou3 q v2 w uan3 t ing2 d e5 g e1}|l ai2 sh ou3 q v2 w uan3 t ing2 d e5 g e1
+SSB03390042|SSB0339|{j iou2 b ai2 j iou3 sh iii2 l iou4 d ian3 y i1 l iou4}|j iou2 b ai2 j iou3 sh iii2 l iou4 d ian3 y i1 l iou4
+SSB15670322|SSB1567|{zh iii4 j in1 e2 rr y ian2 g eng4 d a4 ch eng2 d u4 sh ang4 sh iii4 y i2 b u4 sp x iao1 f ei4 h u4 l ian2 w uang2 sh iii3}|zh iii4 j in1 e2 rr y ian2 g eng4 d a4 ch eng2 d u4 sh ang4 sh iii4 y i2 b u4 sp x iao1 f ei4 h u4 l ian2 w uang2 sh iii3
+SSB11760369|SSB1176|{n v2 z ii3 sh ang4 q ian2 n an2 y iou3 ch u4 sp b an1 j ia1 s uei2 x ing2 n an2 sp b an4 b ei4 d uei4 f ang1 z a1 s ii3}|n v2 z ii3 sh ang4 q ian2 n an2 y iou3 ch u4 sp b an1 j ia1 s uei2 x ing2 n an2 sp b an4 b ei4 d uei4 f ang1 z a1 s ii3
+SSB16500215|SSB1650|{sh uang1 f ang1 g ong4 t ong2 ch eng2 d an1 b o2 sh iii4 sh eng1 y ian2 j iou1 sh eng1 d e5 p ei2 y iang3 g ong1 z uo4}|sh uang1 f ang1 g ong4 t ong2 ch eng2 d an1 b o2 sh iii4 sh eng1 y ian2 j iou1 sh eng1 d e5 p ei2 y iang3 g ong1 z uo4
+SSB19560477|SSB1956|{q ing2 g e1 d uei4 ch ang4}|q ing2 g e1 d uei4 ch ang4
+SSB18630458|SSB1863|{j ian4 sh e4 g ong1 ch eng2 zh iii4 l iang4 sh uei3 p ing2 q van2 m ian4 t i2 sh eng1}|j ian4 sh e4 g ong1 ch eng2 zh iii4 l iang4 sh uei3 p ing2 q van2 m ian4 t i2 sh eng1
+SSB02670093|SSB0267|{b ao1 t ou2 q ing1 sh an1 q v1 d e5 zh ong1 x ve2 y iou3 sh en2 m e5}|b ao1 t ou2 q ing1 sh an1 q v1 d e5 zh ong1 x ve2 y iou3 sh en2 m e5
+SSB06310117|SSB0631|{zh ei4 j ia4 w u2 r en2 j i1 ch ang2 y i4 d ian3 w u2 m i3}|zh ei4 j ia4 w u2 r en2 j i1 ch ang2 y i4 d ian3 w u2 m i3
+SSB19390120|SSB1939|{g ong1 j ing1 f ei4 z ai4 y v4 s uan4 zh ong1 b u2 sh iii4 y i2 g e4 t e4 d ing4 d e5 zh iii1 ch u1 x iang4 m u4}|g ong1 j ing1 f ei4 z ai4 y v4 s uan4 zh ong1 b u2 sh iii4 y i2 g e4 t e4 d ing4 d e5 zh iii1 ch u1 x iang4 m u4
+SSB02880412|SSB0288|{sh iii4 j ie4 b a1 sp sh iii2 b ao3 sp z ang4}|sh iii4 j ie4 b a1 sp sh iii2 b ao3 sp z ang4
+SSB03160164|SSB0316|{h u2 b ei2 sh eng3 b o2 w u4 g uan3 d e5 w uen2 w u4 sp y iou3 sh en2 m e5}|h u2 b ei2 sh eng3 b o2 w u4 g uan3 d e5 w uen2 w u4 sp y iou3 sh en2 m e5
+SSB11610351|SSB1161|{z ai4 j ing1 ch eng2 y i2 w uei4 zh iii1 m ing2 h ao2 zh ai2 sp c ao1 p an2 sh ou3 k an4 l ai2}|z ai4 j ing1 ch eng2 y i2 w uei4 zh iii1 m ing2 h ao2 zh ai2 sp c ao1 p an2 sh ou3 k an4 l ai2
+SSB14020237|SSB1402|{zh ong1 j iang1 x ian4 j i2 q ing4 ch ang2 sp m ao2 t u4 sp zh ong4 t u4 ch ang3}|zh ong1 j iang1 x ian4 j i2 q ing4 ch ang2 sp m ao2 t u4 sp zh ong4 t u4 ch ang3
+SSB16840016|SSB1684|{y iang2 g uang1 ch eng2 sp j ing4 l i4 sp h uo4 ch ao1 sp sh iii2 s an1 y i4 y van2}|y iang2 g uang1 ch eng2 sp j ing4 l i4 sp h uo4 ch ao1 sp sh iii2 s an1 y i4 y van2
+SSB16500248|SSB1650|{w u2 j ian4 w uen2 g ong4 sh ou4 h uei4 s an1 sh iii2 d uo1 b i3}|w u2 j ian4 w uen2 g ong4 sh ou4 h uei4 s an1 sh iii2 d uo1 b i3
+SSB03390073|SSB0339|{en5 sp l ai2 y i4 sh ou3 sp d eng4 z ii3 q i2 y ie4 k ong1 zh ong1 z uei4 l iang4 d e5 x ing1}|en5 sp l ai2 y i4 sh ou3 sp d eng4 z ii3 q i2 y ie4 k ong1 zh ong1 z uei4 l iang4 d e5 x ing1
+SSB06710155|SSB0671|{c ao2 w uen2 x van1 sh u1 j i2 y iou3 sh en2 m e5}|c ao2 w uen2 x van1 sh u1 j i2 y iou3 sh en2 m e5
+SSB13410324|SSB1341|{w uo2 y i3 w uei2 w uo3 m eng5 h en3 k uai4 h uei4 l a1 k ai1 j v4 l i2}|w uo2 y i3 w uei2 w uo3 m eng5 h en3 k uai4 h uei4 l a1 k ai1 j v4 l i2
+SSB11080239|SSB1108|{d a4 j i1 j in1 zh iii3 n eng2 z ou3 zh e4 t iao2 l u4}|d a4 j i1 j in1 zh iii3 n eng2 z ou3 zh e4 t iao2 l u4
+SSB09870313|SSB0987|{h e2 y iao2}|h e2 y iao2
+SSB02990012|SSB0299|{y i4 k ai1 sh iii3 w uo2 x iang3 y iang4 n i3 m en5 y ie3 sh ou4 sh ou4 sp z uei4}|y i4 k ai1 sh iii3 w uo2 x iang3 y iang4 n i3 m en5 y ie3 sh ou4 sh ou4 sp z uei4
+SSB05020151|SSB0502|{g u3 zh eng1}|g u3 zh eng1
+SSB08870324|SSB0887|{g ai1 p ian1 d ao2 y ian3 sp ao4 l i4 w uei2 e3 rr m i3 sp j ia1 d uen4 sp zh uan1 ch eng2 l ai2 h ua2 y v2 y ing3 m i2 j iao1 l iou2}|g ai1 p ian1 d ao2 y ian3 sp ao4 l i4 w uei2 e3 rr m i3 sp j ia1 d uen4 sp zh uan1 ch eng2 l ai2 h ua2 y v2 y ing3 m i2 j iao1 l iou2
+SSB07940148|SSB0794|{x iong1 y ia2 l i4 l ao3 j iang4 sp x ie4 h e4 sp y i3 sp y i1 f en1 w u3 sh iii2 s an1 m iao3 q i1 y i1 d e5 ch eng2 j i4 sp h uo4 d e2 y v4 s ai4 d i4 y i1}|x iong1 y ia2 l i4 l ao3 j iang4 sp x ie4 h e4 sp y i3 sp y i1 f en1 w u3 sh iii2 s an1 m iao3 q i1 y i1 d e5 ch eng2 j i4 sp h uo4 d e2 y v4 s ai4 d i4 y i1
+SSB12530087|SSB1253|{l iang2 y iong3 q i2 z uo2 r iii4 ch u1 x i2 m ou3 h uo2 d ong4}|l iang2 y iong3 q i2 z uo2 r iii4 ch u1 x i2 m ou3 h uo2 d ong4
+SSB17450395|SSB1745|{s u1 y iong3 k ang1 d e5 g e1}|s u1 y iong3 k ang1 d e5 g e1
+SSB15550180|SSB1555|{x iang3 t ing1 g e1 q v3 h uang2 p in3 y van2 d e5 g e1}|x iang3 t ing1 g e1 q v3 h uang2 p in3 y van2 d e5 g e1
+SSB12150103|SSB1215|{q i1 sh iii2 s ii4 d ian3 l ing2 b a1 s ii4}|q i1 sh iii2 s ii4 d ian3 l ing2 b a1 s ii4
+SSB06710330|SSB0671|{j iang4 x ian4 n an2 f an2 sp b a1 f ang1 sp w u4 l iou2 zh ong1 x in1}|j iang4 x ian4 n an2 f an2 sp b a1 f ang1 sp w u4 l iou2 zh ong1 x in1
+SSB19390008|SSB1939|{w uo3 z ai4 d uei4 z ii4 j i3 z ii1 g e2 s ai4 d e5 q i1 d ai4 j iou4 sh iii4 y i4 q iang1 sp j iou4 n eng2 g uo4 j i2 g e2 x ian4}|w uo3 z ai4 d uei4 z ii4 j i3 z ii1 g e2 s ai4 d e5 q i1 d ai4 j iou4 sh iii4 y i4 q iang1 sp j iou4 n eng2 g uo4 j i2 g e2 x ian4
+SSB03070016|SSB0307|{t a1 m en5 l ai2 w uo3 j ia1 d ai4 b u3 l e5 w uo3}|t a1 m en5 l ai2 w uo3 j ia1 d ai4 b u3 l e5 w uo3
+SSB07600386|SSB0760|{y iou2 y v2 k u4 c uen2 sp g ao1 q i3 z ii1 j in1 l ian4 rr ch eng2 y ia1 sp l i4 y v2 j v4 sp j v4 j ian3}|y iou2 y v2 k u4 c uen2 sp g ao1 q i3 z ii1 j in1 l ian4 rr ch eng2 y ia1 sp l i4 y v2 j v4 sp j v4 j ian3
+SSB13990289|SSB1399|{sh iii2 j ia1 zh uang1 ch eng2 l i4 b an4 d ao2 t i3 h ang2 y ie4 x ie2 h uei4 s ou1 h u2 k e1 j i4}|sh iii2 j ia1 zh uang1 ch eng2 l i4 b an4 d ao2 t i3 h ang2 y ie4 x ie2 h uei4 s ou1 h u2 k e1 j i4
+SSB07480358|SSB0748|{zh ong1 g uo2 sh iii2 h ua4 x iao1 sh ou4 y iou3 x ian4 g ong1 s ii1 sp d ong1 b ei3 d a4 l ian2 sp f en1 g ong1 s ii1}|zh ong1 g uo2 sh iii2 h ua4 x iao1 sh ou4 y iou3 x ian4 g ong1 s ii1 sp d ong1 b ei3 d a4 l ian2 sp f en1 g ong1 s ii1
+SSB03390283|SSB0339|{j ia1 l u4 f u2 g ou4 w u4 zh ong1 x in1}|j ia1 l u4 f u2 g ou4 w u4 zh ong1 x in1
+SSB18910356|SSB1891|{l iao2 ch eng2 d e5 d ian4 sh iii4 t ai2 y iou3 sh en2 m e5}|l iao2 ch eng2 d e5 d ian4 sh iii4 t ai2 y iou3 sh en2 m e5
+SSB06140034|SSB0614|{w uo3 m en5 d ou1 zh iii1 d ao4 n i2 k ou3 d ai4 l i3 l ian2 w u3 k uai4 q ian2 d ou1 m ei2 l e5}|w uo3 m en5 d ou1 zh iii1 d ao4 n i2 k ou3 d ai4 l i3 l ian2 w u3 k uai4 q ian2 d ou1 m ei2 l e5
+SSB14310389|SSB1431|{s an1 x ing1 j iang1 y v2 b en3 y ve4 x iang4 k ai1 f a1 zh e3 x iao1 sh ou4}|s an1 x ing1 j iang1 y v2 b en3 y ve4 x iang4 k ai1 f a1 zh e3 x iao1 sh ou4
+SSB07620372|SSB0762|{b ei3 s ong4 d e5 j ian4 zh u4 y iou3 sh en2 m e5}|b ei3 s ong4 d e5 j ian4 zh u4 y iou3 sh en2 m e5
+SSB07370408|SSB0737|{w uei2 ch iii2 w uen3 d ing4 d e5 ch eng2 sh iii4 sh u4 l iang4 sp y i4 z eng1 zh iii4 sh iii2 g e4}|w uei2 ch iii2 w uen3 d ing4 d e5 ch eng2 sh iii4 sh u4 l iang4 sp y i4 z eng1 zh iii4 sh iii2 g e4
+SSB06680166|SSB0668|{w uo2 l iao2 j ie2 n i3 d e5 n eng2 n ai4}|w uo2 l iao2 j ie2 n i3 d e5 n eng2 n ai4
+SSB03660486|SSB0366|{sh u3 w uei2 c ao2 sh u3 zh iii2 w u4 y iou2 sh en3 m e5}|sh u3 w uei2 c ao2 sh u3 zh iii2 w u4 y iou2 sh en3 m e5
+SSB15850325|SSB1585|{x iao2 m i3 h u4 y v2 z ai4 b ei3 j ing1 zh ao1 k ai1 sp m ei2 t i3 g ou1 t ong1 h uei4}|x iao2 m i3 h u4 y v2 z ai4 b ei3 j ing1 zh ao1 k ai1 sp m ei2 t i3 g ou1 t ong1 h uei4
+SSB12040514|SSB1204|{t i2 sh eng1 j in1 r ong2 y v2 q i3 y ie4 z ii1 ch an3 d e5 sh iii3 y iong4 x iao4 l v4}|t i2 sh eng1 j in1 r ong2 y v2 q i3 y ie4 z ii1 ch an3 d e5 sh iii3 y iong4 x iao4 l v4
+SSB03940486|SSB0394|{t a1 c ong2 l ai2 m ei2 y iou2 x iang3 y iao4 m ian3 y v2 sh ou4 f a2}|t a1 c ong2 l ai2 m ei2 y iou2 x iang3 y iao4 m ian3 y v2 sh ou4 f a2
+SSB07230302|SSB0723|{s ii4 d ian3 s ii4 s an1 w u3 q i1 s ii4}|s ii4 d ian3 s ii4 s an1 w u3 q i1 s ii4
+SSB17450319|SSB1745|{y i3 j ia4 h uan4 l iang4 ch eng2 w uei2 l ou2 sh iii4 zh u3 x van2 l v4}|y i3 j ia4 h uan4 l iang4 ch eng2 w uei2 l ou2 sh iii4 zh u3 x van2 l v4
+SSB03420280|SSB0342|{g uo2 n ei4 d a4 b u4 f en5 sh ou3 j i1 d ian4 sh iii4 ch ang3 sh ang1 j vn1 c ai3 y iong4 l e5 j ing1 d ong1 f ang1 d e5 y ie4 j in1 m ian4 b an3}|g uo2 n ei4 d a4 b u4 f en5 sh ou3 j i1 d ian4 sh iii4 ch ang3 sh ang1 j vn1 c ai3 y iong4 l e5 j ing1 d ong1 f ang1 d e5 y ie4 j in1 m ian4 b an3
+SSB06860285|SSB0686|{s uo2 y iou3 r en2 d ou1 b a3 t a1 sh iii4 zh iii3 w uei4 g ong1 zh u3 x ing4 y vn4 n v3 sh en2}|s uo2 y iou3 r en2 d ou1 b a3 t a1 sh iii4 zh iii3 w uei4 g ong1 zh u3 x ing4 y vn4 n v3 sh en2
+SSB06070434|SSB0607|{sh uen4 d e2 q v1 d e5 j ie1 d ao4 y iou3 sh en2 m e5}|sh uen4 d e2 q v1 d e5 j ie1 d ao4 y iou3 sh en2 m e5
+SSB02460362|SSB0246|{j i1 j i2 f a1 zh an3 w uen2 h ua4 ch an3 y ie4 b ao2 x ian3 w u4 l iou2 b ao2 x ian3}|j i1 j i2 f a1 zh an3 w uen2 h ua4 ch an3 y ie4 b ao2 x ian3 w u4 l iou2 b ao2 x ian3
+SSB05390193|SSB0539|{w u2 b ai3 l ing2 b a1 d ian3 q i1 j iou3}|w u2 b ai3 l ing2 b a1 d ian3 q i1 j iou3
+SSB12390062|SSB1239|{sh en3 y iang2 sh iii4 y vn2 k en2 y iou3 x ian4 g ong1 s ii1 sp x i1 n an2 e4 rr m en2}|sh en3 y iang2 sh iii4 y vn2 k en2 y iou3 x ian4 g ong1 s ii1 sp x i1 n an2 e4 rr m en2
+SSB16070402|SSB1607|{b ai3 an1 j v1}|b ai3 an1 j v1
+SSB03660027|SSB0366|{zh e4 y i2 zh eng4 c e4 j iang1 c ii4 j i1 ch u1 y iou4 y i2 g e4 q ian1 y i4 sh iii4 ch ang3}|zh e4 y i2 zh eng4 c e4 j iang1 c ii4 j i1 ch u1 y iou4 y i2 g e4 q ian1 y i4 sh iii4 ch ang3
+SSB11260362|SSB1126|{j in4 x ing2 w uei2 y i1 y i2 g e4 j ie1 d uan4 d e5 ch ang3 d i4 sh iii4 y ing4 x vn4 l ian4}|j in4 x ing2 w uei2 y i1 y i2 g e4 j ie1 d uan4 d e5 ch ang3 d i4 sh iii4 y ing4 x vn4 l ian4
+SSB02990194|SSB0299|{c ai2 sp l eng2 ch iii4 j i1 x iao1 f ei4 zh e3 d uei4 x in2 d ian4 n ao3 d e5 x ing4 q v4}|c ai2 sp l eng2 ch iii4 j i1 x iao1 f ei4 zh e3 d uei4 x in2 d ian4 n ao3 d e5 x ing4 q v4
+SSB03790062|SSB0379|{x iao4 y van2 l ei4 x in2 d e5 d ian4 sh iii4 j v4 y iou2 sh en3 m e5}|x iao4 y van2 l ei4 x in2 d e5 d ian4 sh iii4 j v4 y iou2 sh en3 m e5
+SSB05880082|SSB0588|{y i2 g e4 q i3 y ie4 r uan3 j ian4 rr d e5 sh e4 j i4 sp ch uang4 x in1 d ou1 sh iii4 w uei4 l e5 sp t i2 sh eng1 x iao4 sp l v4}|y i2 g e4 q i3 y ie4 r uan3 j ian4 rr d e5 sh e4 j i4 sp ch uang4 x in1 d ou1 sh iii4 w uei4 l e5 sp t i2 sh eng1 x iao4 sp l v4
+SSB09190353|SSB0919|{f en1 m ing2 sh iii4 p ei2 y iang3 g ong1 f u1 j v4 x ing1 d e5 j i4 h ua4}|f en1 m ing2 sh iii4 p ei2 y iang3 g ong1 f u1 j v4 x ing1 d e5 j i4 h ua4
+SSB03660265|SSB0366|{zh iii4 q v3 sh eng1 ch en2 g ang1 r en2 w u4 y iou2 sh en3 m e5}|zh iii4 q v3 sh eng1 ch en2 g ang1 r en2 w u4 y iou2 sh en3 m e5
+SSB11380021|SSB1138|{m o2 sh u4 k uai4 d ou4 d e5 r en2 w u4 sp y iou3 sh en2 m e5}|m o2 sh u4 k uai4 d ou4 d e5 r en2 w u4 sp y iou3 sh en2 m e5
+SSB05900294|SSB0590|{b ian4 w uen1 sh iii3 sp w uen1 d u4 sp t iao2 zh iii4 sp l ing2 x ia4 sh iii2 q i1 d u4 d ang4}|b ian4 w uen1 sh iii3 sp w uen1 d u4 sp t iao2 zh iii4 sp l ing2 x ia4 sh iii2 q i1 d u4 d ang4
+SSB07580186|SSB0758|{zh eng4 sh iii4 z ai4 l ou2 sh iii4 f en1 h ua4 d e5 b ei4 j ing3 x ia4}|zh eng4 sh iii4 z ai4 l ou2 sh iii4 f en1 h ua4 d e5 b ei4 j ing3 x ia4
+SSB13650012|SSB1365|{e4 rr l ing2 y i1 y i1 n ian2 d i3 sp s an1 y ve4 d i3}|e4 rr l ing2 y i1 y i1 n ian2 d i3 sp s an1 y ve4 d i3
+SSB03800332|SSB0380|{n a4 m e5 q ie1 r u4 zh eng4 t i2}|n a4 m e5 q ie1 r u4 zh eng4 t i2
+SSB13920449|SSB1392|{d uei4 g ou4 m ai3 y i1 d ian3 l iou4 sh eng1 j i2 y i3 x ia4 p ai2 l iang4 ch eng2 y iong4 ch e1 sh iii2 x ing2 y iou1 h uei4 zh eng4 c e4}|d uei4 g ou4 m ai3 y i1 d ian3 l iou4 sh eng1 j i2 y i3 x ia4 p ai2 l iang4 ch eng2 y iong4 ch e1 sh iii2 x ing2 y iou1 h uei4 zh eng4 c e4
+SSB11150034|SSB1115|{y iao1 s an1 b a1 sp q i1 sp j iou2 w u3 s an1 s ii4 q i1 l ing2 j iou3}|y iao1 s an1 b a1 sp q i1 sp j iou2 w u3 s an1 s ii4 q i1 l ing2 j iou3
+SSB05900453|SSB0590|{j iou4 sh iii4 y ve1 h an4 sp h en3 sp ai4 g ang3 sp j ing4 y ie4 n e5}|j iou4 sh iii4 y ve1 h an4 sp h en3 sp ai4 g ang3 sp j ing4 y ie4 n e5
+SSB09130447|SSB0913|{zh ang3 sh ang1 k e1 j i4 d ao4 d i3 sh iii4 z uo4 sh en2 m e5 d e5 n e5}|zh ang3 sh ang1 k e1 j i4 d ao4 d i3 sh iii4 z uo4 sh en2 m e5 d e5 n e5
+SSB06290434|SSB0629|{j iou3 d ian4 sp f ang1 ch eng2 n uo4 t uei4 h uan2 e4 rr l ing2 y van2 m a2 t ong2 sh iii3 y iong4 f ei4}|j iou3 d ian4 sp f ang1 ch eng2 n uo4 t uei4 h uan2 e4 rr l ing2 y van2 m a2 t ong2 sh iii3 y iong4 f ei4
+SSB08870156|SSB0887|{j in4 k ou3 h uan2 j ie2 sh uei4 sh ou1 h uei1 f u4 x ing4 z eng1 zh ang3}|j in4 k ou3 h uan2 j ie2 sh uei4 sh ou1 h uei1 f u4 x ing4 z eng1 zh ang3
+SSB13410429|SSB1341|{q i2 h ai2 k uan3 sp q i1 x ian4 j i2 j iong1}|q i2 h ai2 k uan3 sp q i1 x ian4 j i2 j iong1
+SSB05940390|SSB0594|{b a1 y ve4 sh iii2 l iou4 r iii4 sp sh ang4 w u3 sp b a1 l ing2 sp b a1 f en1}|b a1 y ve4 sh iii2 l iou4 r iii4 sp sh ang4 w u3 sp b a1 l ing2 sp b a1 f en1
+SSB07110132|SSB0711|{j vn1 sh iii4 sp c ii2 h uei4 y iou3 sh en2 m e5}|j vn1 sh iii4 sp c ii2 h uei4 y iou3 sh en2 m e5
+SSB04820186|SSB0482|{e4 rr sp zh u4 zh ai2 y iong4 d i4 g ong1 y ing4 sp j in3 y iou4 s an1 k uai4 rr}|e4 rr sp zh u4 zh ai2 y iong4 d i4 g ong1 y ing4 sp j in3 y iou4 s an1 k uai4 rr
+SSB03410491|SSB0341|{t ong2 q i4 y iou2 x i4 b o2 l i4 j ing3 sp ch e1 sp d i4 sp y i1 j i4}|t ong2 q i4 y iou2 x i4 b o2 l i4 j ing3 sp ch e1 sp d i4 sp y i1 j i4
+SSB11760177|SSB1176|{y ie3 b u2 b ei4 t i2 q ian2 z en1 c a2 l u4 x ian4}|y ie3 b u2 b ei4 t i2 q ian2 z en1 c a2 l u4 x ian4
+SSB10200007|SSB1020|{l ong2 z u2 b ei4 g an3 ch u1 sp y ia3 t e4 l ei2 y ia4}|l ong2 z u2 b ei4 g an3 ch u1 sp y ia3 t e4 l ei2 y ia4
+SSB12180224|SSB1218|{n v3 t ong2 z ao1 b ao2 m a2 n ian3 y ia1 sh en1 w uang2 sp j ia1 r en2 sh iii4 f a1 sh iii2 s ii1 j i1 zh eng4 z ai4 sp d a3 d ian4 h ua4}|n v3 t ong2 z ao1 b ao2 m a2 n ian3 y ia1 sh en1 w uang2 sp j ia1 r en2 sh iii4 f a1 sh iii2 s ii1 j i1 zh eng4 z ai4 sp d a3 d ian4 h ua4
+SSB03070383|SSB0307|{j ing3 g uan1 j ian4 zh u4 y iou2 sh en3 m e5}|j ing3 g uan1 j ian4 zh u4 y iou2 sh en3 m e5
+SSB03850298|SSB0385|{d ei3 x ian1 sh uo1 sh uo1 w uo3 sh iii4 z en3 m e5 k ai1 sh iii2 p ao3 b u4 d e5 t ang2 s eng1 l ai2 l a5}|d ei3 x ian1 sh uo1 sh uo1 w uo3 sh iii4 z en3 m e5 k ai1 sh iii2 p ao3 b u4 d e5 t ang2 s eng1 l ai2 l a5
+SSB02670030|SSB0267|{d u1 sh iii4 l ei4 x ing2 d ian4 y ing2 y iou3 sh en2 m e5}|d u1 sh iii4 l ei4 x ing2 d ian4 y ing2 y iou3 sh en2 m e5
+SSB07510316|SSB0751|{f ang4 g e1 q v3 x i3 h uan1 n i3}|f ang4 g e1 q v3 x i3 h uan1 n i3
+SSB18280368|SSB1828|{j ia1 d a4 y iou1 h uei4 l i4 d u4 d eng3 y in1 s u4}|j ia1 d a4 y iou1 h uei4 l i4 d u4 d eng3 y in1 s u4
+SSB08090339|SSB0809|{j i4 x v4 b o1 f ang4 y in1 y ve4}|j i4 x v4 b o1 f ang4 y in1 y ve4
+SSB06230135|SSB0623|{y ie2 x v2 w uo3 y ing1 g ai1 q v4}|y ie2 x v2 w uo3 y ing1 g ai1 q v4
+SSB07780358|SSB0778|{d ong1 y ing2 d e5 y van4 x iao4 y iou3 sh en2 m e5}|d ong1 y ing2 d e5 y van4 x iao4 y iou3 sh en2 m e5
+SSB11870279|SSB1187|{d a2 x i1 j ie2 h uen1 sh iii2}|d a2 x i1 j ie2 h uen1 sh iii2
+SSB06030231|SSB0603|{y iang2 ch eng2 w u3 q iang2 g ong1 d ong1 t uan2 b ao3}|y iang2 ch eng2 w u3 q iang2 g ong1 d ong1 t uan2 b ao3
+SSB04260413|SSB0426|{x v2 j ia1 y v2 s ai4 h ou4 b iao3 sh iii4 j in1 t ian1 zh iii2 y iou2 w u3 sh iii2 m i3}|x v2 j ia1 y v2 s ai4 h ou4 b iao3 sh iii4 j in1 t ian1 zh iii2 y iou2 w u3 sh iii2 m i3
+SSB04350433|SSB0435|{d an4 w uei1 l ian2 t ong2 sh iii2 y ie3 ch eng2 r en4 g uo2 j ia1 z ai4 x ing2 zh eng4 n eng2 l i4 sh ang4 c uen2 z ai4 b u4 x iao3 d e5 w uen4 t i2}|d an4 w uei1 l ian2 t ong2 sh iii2 y ie3 ch eng2 r en4 g uo2 j ia1 z ai4 x ing2 zh eng4 n eng2 l i4 sh ang4 c uen2 z ai4 b u4 x iao3 d e5 w uen4 t i2
+SSB07170210|SSB0717|{zh eng3 g e4 d i4 y i1 h uei2 h e2 sp j ie2 l i4 m ei2 ch u1 y i4 q van2}|zh eng3 g e4 d i4 y i1 h uei2 h e2 sp j ie2 l i4 m ei2 ch u1 y i4 q van2
+SSB02670202|SSB0267|{y in1 y ve4 s ou1 s uo3 h an2 l ei3 d e5 g e1}|y in1 y ve4 s ou1 s uo3 h an2 l ei3 d e5 g e1
+SSB03390339|SSB0339|{s an1 zh ou2 j ia1 s u4 d u4 ch uan2 g an3 q i4 e4 rr d ian3 rr e4 rr y van2}|s an1 zh ou2 j ia1 s u4 d u4 ch uan2 g an3 q i4 e4 rr d ian3 rr e4 rr y van2
+SSB03800393|SSB0380|{x iao1 x iao1 d e5 w uo4 b u2 zh u4 d e5 t a1}|x iao1 x iao1 d e5 w uo4 b u2 zh u4 d e5 t a1
+SSB12030450|SSB1203|{r en2 q iou1 f u2 w u4 q v1 j ia1 y iou2 zh an4}|r en2 q iou1 f u2 w u4 q v1 j ia1 y iou2 zh an4
+SSB07020261|SSB0702|{g ao1 q vn2 sh u1 d e5 d ian4 sh iii4 j v4 sp y iou3 sh en2 m e5}|g ao1 q vn2 sh u1 d e5 d ian4 sh iii4 j v4 sp y iou3 sh en2 m e5
+SSB06140142|SSB0614|{ch uan1 y ve4 d e5 h an2 j v4 sp y iou3 sh en2 m e5}|ch uan1 y ve4 d e5 h an2 j v4 sp y iou3 sh en2 m e5
+SSB03390402|SSB0339|{b o1 f ang4 y i4 sh ou3 f u4 q in1 d e5 c ao3 y van2 m u3 q in1 d e5 h e2}|b o1 f ang4 y i4 sh ou3 f u4 q in1 d e5 c ao3 y van2 m u3 q in1 d e5 h e2
+SSB04700302|SSB0470|{t ong2 b i3 sp e4 rr l ing2 y i1 s ii4 n ian2 q van2 n ian2 d e5 q i1 q ian1 y van2 zh ang3 f u2 g ao1 d a2 b ai3 f en1 zh iii1 sh iii2 l iou4}|t ong2 b i3 sp e4 rr l ing2 y i1 s ii4 n ian2 q van2 n ian2 d e5 q i1 q ian1 y van2 zh ang3 f u2 g ao1 d a2 b ai3 f en1 zh iii1 sh iii2 l iou4
+SSB05900425|SSB0590|{l iou4 w uan4 sp l iang3 sp q ian1 sp l iang2 b ai3 sp q i1 sh iii2 b a1}|l iou4 w uan4 sp l iang3 sp q ian1 sp l iang2 b ai3 sp q i1 sh iii2 b a1
+SSB06320248|SSB0632|{m u4 q ian2 w uei4 l e5 t uo4 k uan1 y ie4 w u4 t i3 sp x i4}|m u4 q ian2 w uei4 l e5 t uo4 k uan1 y ie4 w u4 t i3 sp x i4
+SSB18370019|SSB1837|{t ing1 t ing1 y in1 y ve4 sp b ing1 y v3}|t ing1 t ing1 y in1 y ve4 sp b ing1 y v3
+SSB19350043|SSB1935|{y i3 j i2 zh ong1 g uo2 k ai1 f a1 sh ang1 zh ong1 sp z uei4 w uei2 m ing2 x ian3}|y i3 j i2 zh ong1 g uo2 k ai1 f a1 sh ang1 zh ong1 sp z uei4 w uei2 m ing2 x ian3
+SSB17810229|SSB1781|{j iou3 b a1 s an1 q i1 sp l ing2 b a1 e4 rr b a1}|j iou3 b a1 s an1 q i1 sp l ing2 b a1 e4 rr b a1
+SSB04820312|SSB0482|{s ii4 d ian2 w u2 w u3 y i1 y i1 l iou4}|s ii4 d ian2 w u2 w u3 y i1 y i1 l iou4
+SSB05940223|SSB0594|{m ao4 ch ang1 x iou1 l i2 ch ang3}|m ao4 ch ang1 x iou1 l i2 ch ang3
+SSB06140360|SSB0614|{s an1 x in1 sh ou3 j i1 y ie4 w u4 d ang1 q ian2 z ai4 d i1 d uan1 l ing3 y v4 m ian4 l in2 x iao2 m i3 j ing4 zh eng1}|s an1 x in1 sh ou3 j i1 y ie4 w u4 d ang1 q ian2 z ai4 d i1 d uan1 l ing3 y v4 m ian4 l in2 x iao2 m i3 j ing4 zh eng1
+SSB12150164|SSB1215|{zh e4 sh iii4 y i4 q i3 y in1 w uei4 g e3 g e4 zh iii2 n eng2 b u4 m en2 sp j i2 t i3 sh iii1 sh ou3 e2 rr d ao3 zh iii4 d e5 l i2 q i2 sh iii4 j ian4}|zh e4 sh iii4 y i4 q i3 y in1 w uei4 g e3 g e4 zh iii2 n eng2 b u4 m en2 sp j i2 t i3 sh iii1 sh ou3 e2 rr d ao3 zh iii4 d e5 l i2 q i2 sh iii4 j ian4
+SSB12160178|SSB1216|{w uo2 b a3 n a4 g e4 z uan4 sh iii2 n a2 d ao4 s an1 g e4 d i4 f ang1 q v4 j ian3 ch a2}|w uo2 b a3 n a4 g e4 z uan4 sh iii2 n a2 d ao4 s an1 g e4 d i4 f ang1 q v4 j ian3 ch a2
+SSB11360115|SSB1136|{m u4 q ian2 c an3 sp f u4 y ing2 z ai4 sp zh ong4 sp zh eng4 sp j ian1 sp h u4 sh iii4}|m u4 q ian2 c an3 sp f u4 y ing2 z ai4 sp zh ong4 sp zh eng4 sp j ian1 sp h u4 sh iii4
+SSB13650424|SSB1365|{d eng4 l i4 j vn1}|d eng4 l i4 j vn1
+SSB09350258|SSB0935|{zh eng4 f u3 zh eng4 z ai4 k ao3 l v4 j ing4 an1 h e2 x ia2 b ei3 h e2 b ing4 d e5 ch uan2 y ian2 l uo4 d i4}|zh eng4 f u3 zh eng4 z ai4 k ao3 l v4 j ing4 an1 h e2 x ia2 b ei3 h e2 b ing4 d e5 ch uan2 y ian2 l uo4 d i4
+SSB03160227|SSB0316|{l u4 z ai4 d uo1 d a4 d e5 sh iii2 h ou4 k ai1 sh iii3 sh eng1 j iao3}|l u4 z ai4 d uo1 d a4 d e5 sh iii2 h ou4 k ai1 sh iii3 sh eng1 j iao3
+SSB18720429|SSB1872|{l ai2 y iang2 sh iii4 j iao1 d ong1 s e4 m u3 sp l iao4 ch ang3}|l ai2 y iang2 sh iii4 j iao1 d ong1 s e4 m u3 sp l iao4 ch ang3
+SSB03790273|SSB0379|{z ang1 m an4 y v4 l iang2 j ia1 h uei1 ch u1 y ian3 d e5 d ian4 y ing3 y iou2 sh en3 m e5}|z ang1 m an4 y v4 l iang2 j ia1 h uei1 ch u1 y ian3 d e5 d ian4 y ing3 y iou2 sh en3 m e5
+SSB18100388|SSB1810|{j iou4 z ai4 sh iii1 t i3 b u4 y van3 ch u4}|j iou4 z ai4 sh iii1 t i3 b u4 y van3 ch u4
+SSB16700111|SSB1670|{y ia2 m ai3 j ia1 d uei4 n eng2 g ou4 y ian2 x v4 j ie1 l i4 h uei1 h uang2}|y ia2 m ai3 j ia1 d uei4 n eng2 g ou4 y ian2 x v4 j ie1 l i4 h uei1 h uang2
+SSB03070446|SSB0307|{w uo3 sh iii4 t a1 d e5 y ie2 y ie5}|w uo3 sh iii4 t a1 d e5 y ie2 y ie5
+SSB15550348|SSB1555|{x iang3 t ing1 g e1 q v3 sp zh uang1 x in1 y ian2 d e5 g e1}|x iang3 t ing1 g e1 q v3 sp zh uang1 x in1 y ian2 d e5 g e1
+SSB12390265|SSB1239|{y iao4 c ong2 g en1 b en3 sh ang4 zh uan3 b ian4 g uan1 n ian4}|y iao4 c ong2 g en1 b en3 sh ang4 zh uan3 b ian4 g uan1 n ian4
+SSB07600451|SSB0760|{y i4 n ong2 y iao4 p in3}|y i4 n ong2 y iao4 p in3
+SSB15550017|SSB1555|{t ong2 b i3 x ia4 j iang4 b ai3 f en4 zh iii1 y i1}|t ong2 b i3 x ia4 j iang4 b ai3 f en4 zh iii1 y i1
+SSB03540285|SSB0354|{m ing2 rr d ei3 sp f an3 y ing4 f an3 sp y ing4}|m ing2 rr d ei3 sp f an3 y ing4 f an3 sp y ing4
+SSB10720229|SSB1072|{f ang1 sh iii4 t ong1 k e1 j i4 g uang2 ch ang3}|f ang1 sh iii4 t ong1 k e1 j i4 g uang2 ch ang3
+SSB05020171|SSB0502|{d uo1 m ing2 w uang2 y iou3 f a1 t ie3 t ou2 s u4 ch eng1}|d uo1 m ing2 w uang2 y iou3 f a1 t ie3 t ou2 s u4 ch eng1
+SSB03390125|SSB0339|{l uen2 l i3 x ve2 x ve2 zh e2 y iou3 sh en2 m e5}|l uen2 l i3 x ve2 x ve2 zh e2 y iou3 sh en2 m e5
+SSB10200022|SSB1020|{e2 rr y ie4 c uei4 c uei4 z ii4 j i2 y ie3 x ing4 f u2 d e5 b iao3 sh iii4 sp w uo3 m en5 d e5 j ie2 j ing1 zh ong1 y v1 d ao4 sh ou3 l e5}|e2 rr y ie4 c uei4 c uei4 z ii4 j i2 y ie3 x ing4 f u2 d e5 b iao3 sh iii4 sp w uo3 m en5 d e5 j ie2 j ing1 zh ong1 y v1 d ao4 sh ou3 l e5
+SSB07860404|SSB0786|{y iou2 y v2 w uen3 d ing4 x ing4 sp f ang2 sp g ong1 j i1 d e1 sp j i4 sh u4 b o2 r uo4}|y iou2 y v2 w uen3 d ing4 x ing4 sp f ang2 sp g ong1 j i1 d e1 sp j i4 sh u4 b o2 r uo4
+SSB03930248|SSB0393|{w uang4 j i4 n i2 w uo3 sp z uo4 b u2 d ao4}|w uang4 j i4 n i2 w uo3 sp z uo4 b u2 d ao4
+SSB04350304|SSB0435|{n i3 p ei2 zh e5 n i3 j ia1 r en2 j iou4 h ao3}|n i3 p ei2 zh e5 n i3 j ia1 r en2 j iou4 h ao3
+SSB09150236|SSB0915|{y i2 b u4 h uo3 d e5 d ian4 sh iii4 l ian2 x v4 j v4 h uo4 zh e3 d ian4 y ing3}|y i2 b u4 h uo3 d e5 d ian4 sh iii4 l ian2 x v4 j v4 h uo4 zh e3 d ian4 y ing3
+SSB07510096|SSB0751|{j v2 z ii3 h ong2 l e5}|j v2 z ii3 h ong2 l e5
+SSB06140002|SSB0614|{w uo3 z ai4 m a2 w uei3 d e2 r uei4 k e4 d e5 z u2 q v3 l i3 t ing1 d ao4}|w uo3 z ai4 m a2 w uei3 d e2 r uei4 k e4 d e5 z u2 q v3 l i3 t ing1 d ao4
+SSB05700084|SSB0570|{s an1 b ai3 l iou4 sh iii2 d ian3 sp s ii4 b a1}|s an1 b ai3 l iou4 sh iii2 d ian3 sp s ii4 b a1
+SSB07800218|SSB0780|{b a1 q ian1 q i1 b ai3 q i1 sh iii2 l iou4 w uan4 q i1 q ian1 s ii4 b ai2 w u3 sh iii2 y i1}|b a1 q ian1 q i1 b ai3 q i1 sh iii2 l iou4 w uan4 q i1 q ian1 s ii4 b ai2 w u3 sh iii2 y i1
+SSB10240193|SSB1024|{b ing4 q van4 q i2 zh u4 y i4 sh en1 t i3}|b ing4 q van4 q i2 zh u4 y i4 sh en1 t i3
+SSB03820209|SSB0382|{j ve2 d e5 f ei1 ch ang2 k ong3 b u4}|j ve2 d e5 f ei1 ch ang2 k ong3 b u4
+SSB18780268|SSB1878|{h ong2 x ing4 l iang4 y i1 q i4}|h ong2 x ing4 l iang4 y i1 q i4
+SSB03070189|SSB0307|{j i2 zh en3 sh iii4 d e5 g u4 sh iii4 y ian3 y van2 y iou3 sh en2 m e5}|j i2 zh en3 sh iii4 d e5 g u4 sh iii4 y ian3 y van2 y iou3 sh en2 m e5
+SSB03790346|SSB0379|{j i2 m o1 sh iii4 d e5 j ie1 d ao4 y iou2 sh en3 m e5}|j i2 m o1 sh iii4 d e5 j ie1 d ao4 y iou2 sh en3 m e5
+SSB16240132|SSB1624|{k a3 p ei4 x i1 y ia4 h ao4 z ai4 q van2 sh u4 g an3 l ai2 j iou4 y van2}|k a3 p ei4 x i1 y ia4 h ao4 z ai4 q van2 sh u4 g an3 l ai2 j iou4 y van2
+SSB08090326|SSB0809|{b ai3 l i4 e2 rr s uei1 r an2 sp m ao4 r uo4 t ian1 x ian1}|b ai3 l i4 e2 rr s uei1 r an2 sp m ao4 r uo4 t ian1 x ian1
+SSB19390344|SSB1939|{s ii4 b ai3 l iou4 sh iii2 s an1 w uan4 w u3 q ian1 s an1 b ai3 q i1 sh iii2 e4 rr d ian3 rr sp s ii4 y i1}|s ii4 b ai3 l iou4 sh iii2 s an1 w uan4 w u3 q ian1 s an1 b ai3 q i1 sh iii2 e4 rr d ian3 rr sp s ii4 y i1
+SSB07170448|SSB0717|{m u4 q ian2 y i3 q ve4 d ing4 sp j in4 zh u4 sh iii4 f an4 zh ong1 x in1 d e5 q i3 y ie4 y iou3 sp e4 rr sh iii2 w u3 j ia1}|m u4 q ian2 y i3 q ve4 d ing4 sp j in4 zh u4 sh iii4 f an4 zh ong1 x in1 d e5 q i3 y ie4 y iou3 sp e4 rr sh iii2 w u3 j ia1
+SSB04150106|SSB0415|{sh en1 zh en4 j in1 sh a1 w uan1 h ai3 b in1 d u4 j ia4 c uen1}|sh en1 zh en4 j in1 sh a1 w uan1 h ai3 b in1 d u4 j ia4 c uen1
+SSB06660316|SSB0666|{y van2 l ai2 t a1 z ai4 m o4 x i1 g e1}|y van2 l ai2 t a1 z ai4 m o4 x i1 g e1
+SSB03940336|SSB0394|{n an2 z ii3 t iao4 y van3 y v4 s ai4 z ai4 n iao3 ch ao2 sh ang4 y ian3}|n an2 z ii3 t iao4 y van3 y v4 s ai4 z ai4 n iao3 ch ao2 sh ang4 y ian3
+SSB06070040|SSB0607|{w uo3 y i4 zh iii2 z ai4 n i3 p ang2 b ian1}|w uo3 y i4 zh iii2 z ai4 n i3 p ang2 b ian1
+SSB09970365|SSB0997|{n i3 n a4 b ian1 x in4 h ao4 b u4 h ao3}|n i3 n a4 b ian1 x in4 h ao4 b u4 h ao3
+SSB07800206|SSB0780|{z ai4 zh eng2 t i3 x ian4 j in1 l iou2 x iang1 d uei4 sp an1 q van2 d e5 q ian2 t i2 x ia4}|z ai4 zh eng2 t i3 x ian4 j in1 l iou2 x iang1 d uei4 sp an1 q van2 d e5 q ian2 t i2 x ia4
+SSB13770335|SSB1377|{x iang3 y ing4 y van2 y van3 ch ao1 g uo4 w uo3 m en5 d e5 x iang3 x iang4}|x iang3 y ing4 y van2 y van3 ch ao1 g uo4 w uo3 m en5 d e5 x iang3 x iang4
+SSB13220508|SSB1322|{r u2 g uo3 x v1 y iao4 j iao1 y ia1 j in1}|r u2 g uo3 x v1 y iao4 j iao1 y ia1 j in1
+SSB07460401|SSB0746|{x ing1 an1 m eng2 d e5 d i4 m ing2 y iou3 sh en2 m e5}|x ing1 an1 m eng2 d e5 d i4 m ing2 y iou3 sh en2 m e5
+SSB08630299|SSB0863|{s uei2 b ian4 f ang4 y i4 sh ou3 sp h uang2 y ing1 h ua2 d e5 g e1}|s uei2 b ian4 f ang4 y i4 sh ou3 sp h uang2 y ing1 h ua2 d e5 g e1
+SSB06060064|SSB0606|{q i2 zh ong1 y iou3 y i2 ch u4 sh en2 g uei1 t ing2 sp r ang4 b u4 sh ao3 y iou2 k e4 sp zh u4 z u2 x ian4 j in1}|q i2 zh ong1 y iou3 y i2 ch u4 sh en2 g uei1 t ing2 sp r ang4 b u4 sh ao3 y iou2 k e4 sp zh u4 z u2 x ian4 j in1
+SSB13400004|SSB1340|{g uo2 x in1 g ong1 s ii1 zh eng3 h e2 sp sh ang4 d ai4 j ia1 s u4 sp w uang2 y iou3 sp z ai4 sp h uei4 sh ang4 b iao3 sh iii4}|g uo2 x in1 g ong1 s ii1 zh eng3 h e2 sp sh ang4 d ai4 j ia1 s u4 sp w uang2 y iou3 sp z ai4 sp h uei4 sh ang4 b iao3 sh iii4
+SSB05700294|SSB0570|{t a1 m ei3 t ian1 d e5 x vn4 l ian4 l iang4 b i4 x v1 y iao4 d a2 d ao4 sp l iang3 w uan4 m i2 z uo3 y iou4}|t a1 m ei3 t ian1 d e5 x vn4 l ian4 l iang4 b i4 x v1 y iao4 d a2 d ao4 sp l iang3 w uan4 m i2 z uo3 y iou4
+SSB05900388|SSB0590|{m ei2 y iou3 r en2 sp y iong4 t ian1 sh iii3 y iao4 sh iii5 sp d a3 k ai1 g uo4 b a1 y in1 h e2}|m ei2 y iou3 r en2 sp y iong4 t ian1 sh iii3 y iao4 sh iii5 sp d a3 k ai1 g uo4 b a1 y in1 h e2
+SSB11250398|SSB1125|{h ua2 x i1 b a4}|h ua2 x i1 b a4
+SSB02870470|SSB0287|{g e4 g uo2 y vn4 d ong4 y van2 j iao4 l ian4 y van2 h e2 g uan1 y van2 d ou1 ch eng2 l e5 t a1 d e5 f en3 s ii1}|g e4 g uo2 y vn4 d ong4 y van2 j iao4 l ian4 y van2 h e2 g uan1 y van2 d ou1 ch eng2 l e5 t a1 d e5 f en3 s ii1
+SSB19560129|SSB1956|{h uei2 b u2 q v4 d e5 sh iii4 y i4 sp q i3 p ei2 n i3 w uan2 y iou2 x i4 d e5 h uan3 sp w uan2 b an4}|h uei2 b u2 q v4 d e5 sh iii4 y i4 sp q i3 p ei2 n i3 w uan2 y iou2 x i4 d e5 h uan3 sp w uan2 b an4
+SSB15630138|SSB1563|{zh e4 j iang1 sh en3 d e5 d ao2 y v2 y iou3 sh en2 m e5}|zh e4 j iang1 sh en3 d e5 d ao2 y v2 y iou3 sh en2 m e5
+SSB10550289|SSB1055|{d an4 y van2 c ai2 l iao4 sp q ve4 sh iii4 b u2 j ian4 k ang1 d e5}|d an4 y van2 c ai2 l iao4 sp q ve4 sh iii4 b u2 j ian4 k ang1 d e5
+SSB10720454|SSB1072|{e2 rr q ie3 zh eng4 y in1 w uei4 h u4 l ian2 sh e4 b ei4 sh iii4 x iang1 d uei4 j iao4 x in1 d e5 sh iii4 w u4}|e2 rr q ie3 zh eng4 y in1 w uei4 h u4 l ian2 sh e4 b ei4 sh iii4 x iang1 d uei4 j iao4 x in1 d e5 sh iii4 w u4
+SSB06230411|SSB0623|{ou1 y iang2 ch ang2 l in2 d ian4 sh iii4 j v4 y iou2 sh en3 m e5}|ou1 y iang2 ch ang2 l in2 d ian4 sh iii4 j v4 y iou2 sh en3 m e5
+SSB15630336|SSB1563|{sh iii2 y ve4 e4 rr sh iii2 s an1 r iii4 x ia4 w u3 y i1 d ian3 d a4 m ai4 w uang2 sp zh en4 sh iii4 sp k ai1 p iao4}|sh iii2 y ve4 e4 rr sh iii2 s an1 r iii4 x ia4 w u3 y i1 d ian3 d a4 m ai4 w uang2 sp zh en4 sh iii4 sp k ai1 p iao4
+SSB03930143|SSB0393|{n i3 m en5 n eng2 z uo4 d e5 b u4 zh iii3 sh iii4 k uen1 ch ong2}|n i3 m en5 n eng2 z uo4 d e5 b u4 zh iii3 sh iii4 k uen1 ch ong2
+SSB11150441|SSB1115|{d an4 sh iii4 y i1 sp d i2 s ii1 b u2 h uei4 zh ao2 j i2 j iang3 w uan2}|d an4 sh iii4 y i1 sp d i2 s ii1 b u2 h uei4 zh ao2 j i2 j iang3 w uan2
+SSB12740171|SSB1274|{d an4 t ang1 m i2 k e2 y i3 z ai4 m a2 t ong2 l i3 y iang2 y iong3}|d an4 t ang1 m i2 k e2 y i3 z ai4 m a2 t ong2 l i3 y iang2 y iong3
+SSB07000069|SSB0700|{z ai4 c ai2 zh eng4 y v4 s uan4 h e2 j ve2 s uan4 sp g ong1 k ai1 f ang1 m ian4}|z ai4 c ai2 zh eng4 y v4 s uan4 h e2 j ve2 s uan4 sp g ong1 k ai1 f ang1 m ian4
+SSB18780492|SSB1878|{x van3 zh ong1 d i4 q i1 p ai2 sp d i4 l iou4 h ang2 sp d i4 w u3 g e4}|x van3 zh ong1 d i4 q i1 p ai2 sp d i4 l iou4 h ang2 sp d i4 w u3 g e4
+SSB12190403|SSB1219|{y ie3 j iou4 sh iii4 ch uan2 t ong3 d e5 f a1 zh an3 m o2 sh iii4}|y ie3 j iou4 sh iii4 ch uan2 t ong3 d e5 f a1 zh an3 m o2 sh iii4
+SSB02610385|SSB0261|{w uo3 b u4 x iang3 z ai4 ch iii1 d ong1 x i5 d e5 sh iii2 h ou4 t an2}|w uo3 b u4 x iang3 z ai4 ch iii1 d ong1 x i5 d e5 sh iii2 h ou4 t an2
+SSB07600068|SSB0760|{y van3 ch ao1 e4 rr l ing2 y i1 s ii4 n ian2 t ong2 q i1}|y van3 ch ao1 e4 rr l ing2 y i1 s ii4 n ian2 t ong2 q i1
+SSB17810017|SSB1781|{h uang2 q iou1 sh eng1 z eng1 zh iii4 w uei3 ch u1 y ian3 d e5 d ian4 y ing2 y iou3 sh en2 m e5}|h uang2 q iou1 sh eng1 z eng1 zh iii4 w uei3 ch u1 y ian3 d e5 d ian4 y ing2 y iou3 sh en2 m e5
+SSB07800045|SSB0780|{z ong3 l iang4 sh ang4 sp k an4 sp ch ang2 e4 rr d ai4 b u2 d ai4 sp t i2 g ao1 h ang2 y ie4 z ii1 b en3 j in1 y iao1 q iou2}|z ong3 l iang4 sh ang4 sp k an4 sp ch ang2 e4 rr d ai4 b u2 d ai4 sp t i2 g ao1 h ang2 y ie4 z ii1 b en3 j in1 y iao1 q iou2
+SSB02460236|SSB0246|{d an4 sh ou4 h ou4 f u2 w u4 x in4 n eng2 j ian3 c e4 b iao1 zh uen3 d eng3 sp h uan2 j ie2 sp r eng2 r an2 sh iii4 sh iii4 ch ang3 d uan2 b an3}|d an4 sh ou4 h ou4 f u2 w u4 x in4 n eng2 j ian3 c e4 b iao1 zh uen3 d eng3 sp h uan2 j ie2 sp r eng2 r an2 sh iii4 sh iii4 ch ang3 d uan2 b an3
+SSB04260376|SSB0426|{h ua2 w uei2 y i2 j in3 j i2 d iao4 h uan4 q i2 t a1 g ong1 y in5 sh ang1}|h ua2 w uei2 y i2 j in3 j i2 d iao4 h uan4 q i2 t a1 g ong1 y in5 sh ang1
+SSB07160297|SSB0716|{f ang4 sh ou3 g e1 q i2 s ii2 n i3 b u4 d ong2 w uo3 d e5 x in1}|f ang4 sh ou3 g e1 q i2 s ii2 n i3 b u4 d ong2 w uo3 d e5 x in1
+SSB06090458|SSB0609|{y i4 w uen2 sp j in3 g ong4 f ang1 b ian4 l iao2 j ie3 zh iii1 y iong4}|y i4 w uen2 sp j in3 g ong4 f ang1 b ian4 l iao2 j ie3 zh iii1 y iong4
+SSB13410180|SSB1341|{b o1 f ang4 y i2 x ia4 d ong4 g an3 g e1}|b o1 f ang4 y i2 x ia4 d ong4 g an3 g e1
+SSB19020353|SSB1902|{p ing2 g uo3 d uei4 y v2 h ai2 e2 rr m ei3 d i4 e2 rr y ian2}|p ing2 g uo3 d uei4 y v2 h ai2 e2 rr m ei3 d i4 e2 rr y ian2
+SSB12030142|SSB1203|{e2 rr q ie3 d ao4 m u4 q ian2 w uei2 zh iii3 r eng2 r an2 n an2 y i2 b a3 sp w uo4}|e2 rr q ie3 d ao4 m u4 q ian2 w uei2 zh iii3 r eng2 r an2 n an2 y i2 b a3 sp w uo4
+SSB07200375|SSB0720|{y iao1 s an1 s ii4 sp q i1 y iao1 e4 rr w u3 sp b a1 e4 rr s an1 e4 rr}|y iao1 s an1 s ii4 sp q i1 y iao1 e4 rr w u3 sp b a1 e4 rr s an1 e4 rr
+SSB13220365|SSB1322|{q ve4 f en1 f en1 ch uang4 ch u1 w uei1 j i1 q ian2 d e5 x in1 g ao1}|q ve4 f en1 f en1 ch uang4 ch u1 w uei1 j i1 q ian2 d e5 x in1 g ao1
+SSB08170406|SSB0817|{m ei3 g e4 y vn4 d ong4 y van2 y iou3 l e5 y i2 h an4 c ai2 h uei4 y iou3 sp g eng4 j ia1 j i1 ang2 d e5 d ou4 zh iii4}|m ei3 g e4 y vn4 d ong4 y van2 y iou3 l e5 y i2 h an4 c ai2 h uei4 y iou3 sp g eng4 j ia1 j i1 ang2 d e5 d ou4 zh iii4
+SSB07110196|SSB0711|{w uei1 l ian2 f an3 b o2 d ao4 sp zh iii4 sh ao3 y iao4 j iang1 w uen4 t i2 t i2 ch u1}|w uei1 l ian2 f an3 b o2 d ao4 sp zh iii4 sh ao3 y iao4 j iang1 w uen4 t i2 t i2 ch u1
+SSB10240340|SSB1024|{n eng2 y i1 b u2 z ii4 y i1}|n eng2 y i1 b u2 z ii4 y i1
+SSB03790050|SSB0379|{y iou2 n i2 s ii1 y iou3 zh e5 w uan2 m ei3 d e5 b u2 z ai4 c ang3 z en4 m ing2}|y iou2 n i2 s ii1 y iou3 zh e5 w uan2 m ei3 d e5 b u2 z ai4 c ang3 z en4 m ing2
+SSB18910298|SSB1891|{q ve4 h ai2 y iou2 h en3 d uo1 g ong1 s ii1 d a3 d ian4 h ua4 x i1 w uang4 n eng2 d uo1 g ei3 m ing2 e2}|q ve4 h ai2 y iou2 h en3 d uo1 g ong1 s ii1 d a3 d ian4 h ua4 x i1 w uang4 n eng2 d uo1 g ei3 m ing2 e2
+SSB03150130|SSB0315|{m ei3 l iou4 e4 rr l ing2 l ing2 sp r en2 zh ong1 sp y iou3 y i4 r en2 sh iii4 y i4 w uan4 f u4 h ao2}|m ei3 l iou4 e4 rr l ing2 l ing2 sp r en2 zh ong1 sp y iou3 y i4 r en2 sh iii4 y i4 w uan4 f u4 h ao2
+SSB14020465|SSB1402|{z ai4 n a4 zh iii1 q ian2 sh iii4 z ai4 c an1 g uan3}|z ai4 n a4 zh iii1 q ian2 sh iii4 z ai4 c an1 g uan3
+SSB04350437|SSB0435|{y vn2 n an2 sh eng3 d e5 zh iii2 w u4 sp y iou2 sh en3 m e5}|y vn2 n an2 sh eng3 d e5 zh iii2 w u4 sp y iou2 sh en3 m e5
+SSB13920206|SSB1392|{s ou1 s uo3 x ia4 ch en2 x iang3 d e5 g e1}|s ou1 s uo3 x ia4 ch en2 x iang3 d e5 g e1
+SSB09660226|SSB0966|{n i3 k an4 g uo4 sp h ei1 f an1 d e5 ch uan2}|n i3 k an4 g uo4 sp h ei1 f an1 d e5 ch uan2
+SSB07780440|SSB0778|{j ing4 t ou2 d e5 j in4 sh e4 n eng2 l i4 z e2 f ei1 ch ang2 zh ong4 y iao4}|j ing4 t ou2 d e5 j in4 sh e4 n eng2 l i4 z e2 f ei1 ch ang2 zh ong4 y iao4
+SSB03150220|SSB0315|{s ou1 h u2 y v2 l e4 x vn4 sp b ei3 j ing1 sh iii2 j ian1 sp w u3 y ve4 e4 rr sh iii2 s ii4 r iii4 x iao1 x i5}|s ou1 h u2 y v2 l e4 x vn4 sp b ei3 j ing1 sh iii2 j ian1 sp w u3 y ve4 e4 rr sh iii2 s ii4 r iii4 x iao1 x i5
+SSB11150147|SSB1115|{k e4 l i3 s ii1 d ing1 sp s ii1 k e1 t e4 t uo1 m a3 s ii1 ch u1 y ian3 d e5 d ian4 y ing3 y iou2 sh en3 m e5}|k e4 l i3 s ii1 d ing1 sp s ii1 k e1 t e4 t uo1 m a3 s ii1 ch u1 y ian3 d e5 d ian4 y ing3 y iou2 sh en3 m e5
+SSB02410142|SSB0241|{g ong4 t ong2 j ie1 k ai1 l e5 sp l i3 n ing2 sp w uang2 f u2 j ing3 q i2 j ian4 d ian4 d e5 sh en2 m i4 m ian4 sh a1}|g ong4 t ong2 j ie1 k ai1 l e5 sp l i3 n ing2 sp w uang2 f u2 j ing3 q i2 j ian4 d ian4 d e5 sh en2 m i4 m ian4 sh a1
+SSB06710328|SSB0671|{l ai2 y i3 sp y i2 l uo4}|l ai2 y i3 sp y i2 l uo4
+SSB07580394|SSB0758|{h ua2 e3 rr j ie1 d e5 g e4 d a4 f en1 zh iii1 sp f en1 x i1 sh iii1 z e2 sh iii4 zh ong4 sh uo1 f en1 y vn2}|h ua2 e3 rr j ie1 d e5 g e4 d a4 f en1 zh iii1 sp f en1 x i1 sh iii1 z e2 sh iii4 zh ong4 sh uo1 f en1 y vn2
+SSB10550437|SSB1055|{w uo3 n eng2 g en1 w uo3 f u4 q in1 sh uo1 j v4 h ua4 m e5}|w uo3 n eng2 g en1 w uo3 f u4 q in1 sh uo1 j v4 h ua4 m e5
+SSB13920240|SSB1392|{s ii1 j i1 b u4 x iao3 x in1 g en1 s uei2 l ing4 w uai4 j ie2 h uen1 ch e1 d uei4 sp w uang3 sp g uang1 g u3 f ang1 x iang4 q v4}|s ii1 j i1 b u4 x iao3 x in1 g en1 s uei2 l ing4 w uai4 j ie2 h uen1 ch e1 d uei4 sp w uang3 sp g uang1 g u3 f ang1 x iang4 q v4
+SSB07000271|SSB0700|{s ii4 b ai2 j iou3 sh iii2 j iou2 d ian3 rr l ing2 w u3}|s ii4 b ai2 j iou3 sh iii2 j iou2 d ian3 rr l ing2 w u3
+SSB06290183|SSB0629|{b ai3 f en1 zh iii1 w u3 d e5 w uang2 y iou3 r en4 w uei2 f ang2 j ia4 j iang1 p u3 b ian4 sh ang4 zh ang3}|b ai3 f en1 zh iii1 w u3 d e5 w uang2 y iou3 r en4 w uei2 f ang2 j ia4 j iang1 p u3 b ian4 sh ang4 zh ang3
+SSB11870037|SSB1187|{k a3 r uei4 n a4 sp j iou4 zh ao2 sh ou3 k ai1 sh iii3 d iao4 ch a2 sp l e5}|k a3 r uei4 n a4 sp j iou4 zh ao2 sh ou3 k ai1 sh iii3 d iao4 ch a2 sp l e5
+SSB16250205|SSB1625|{zh iii4 j in1 sp h ua2 g ong1 sp sh e4 b ei4 sp y iou2 sh en3 m e5}|zh iii4 j in1 sp h ua2 g ong1 sp sh e4 b ei4 sp y iou2 sh en3 m e5
+SSB04820112|SSB0482|{y ie2 r ang3 k ai1 f a1 sh ang1 sp r u4 sh iii4 t uei1 p an2 d e5 y i4 y van4 sp x ian3 sp zh u4 z eng1 q iang2}|y ie2 r ang3 k ai1 f a1 sh ang1 sp r u4 sh iii4 t uei1 p an2 d e5 y i4 y van4 sp x ian3 sp zh u4 z eng1 q iang2
+SSB13830455|SSB1383|{b ian4 w uen1 sh iii4 w uen1 d u4 sp t iao2 zh iii4 f u4 sp sh iii2 l iou4 d u4}|b ian4 w uen1 sh iii4 w uen1 d u4 sp t iao2 zh iii4 f u4 sp sh iii2 l iou4 d u4
+SSB11080009|SSB1108|{t a1 sh iii4 f ou3 y van4 y i4 sp j ie1 sh ou3 x ing1 j i4 m i2 h ang2 s an1}|t a1 sh iii4 f ou3 y van4 y i4 sp j ie1 sh ou3 x ing1 j i4 m i2 h ang2 s an1
+SSB19180173|SSB1918|{w uo3 j iang1 m i4 m a3 sh u1 r u4 zh u3 d ian4 n ao3 sp zh ong1}|w uo3 j iang1 m i4 m a3 sh u1 r u4 zh u3 d ian4 n ao3 sp zh ong1
+SSB13930020|SSB1393|{d an4 y iang3 h ua4 w u4 p ai2 f ang4 l iang4 sp b u2 j iang4 f an3 sh eng1}|d an4 y iang3 h ua4 w u4 p ai2 f ang4 l iang4 sp b u2 j iang4 f an3 sh eng1
+SSB10910332|SSB1091|{l iou4 b ai3 y i1 l i4 m in2 j ie4 y ian1 f u2 w u4 zh ong1 x in1 b ai2 ch eng2 d i4 q v1 z ong3 d ai4 sp l i3}|l iou4 b ai3 y i1 l i4 m in2 j ie4 y ian1 f u2 w u4 zh ong1 x in1 b ai2 ch eng2 d i4 q v1 z ong3 d ai4 sp l i3
+SSB02460298|SSB0246|{k ong1 q i4 j ing4 h ua4 q i4 x iao1 sh ou4 ch uang4 x in1 g ao1}|k ong1 q i4 j ing4 h ua4 q i4 x iao1 sh ou4 ch uang4 x in1 g ao1
+SSB13850098|SSB1385|{f u2 l in2 j iou4 b u2 h uei4 sp zh e4 m e5 n an2 zh ao3 ch u1 sp ch u1 s e4 d e5 y ian4 p in3 sp l e5}|f u2 l in2 j iou4 b u2 h uei4 sp zh e4 m e5 n an2 zh ao3 ch u1 sp ch u1 s e4 d e5 y ian4 p in3 sp l e5
+SSB09350351|SSB0935|{p ei2 x vn4 n ei4 r ong2 d e5 d uo1 c eng2 c ii4}|p ei2 x vn4 n ei4 r ong2 d e5 d uo1 c eng2 c ii4
+SSB19560003|SSB1956|{m ei2 w u1 l i3 d e5 t ao2 h ua1}|m ei2 w u1 l i3 d e5 t ao2 h ua1
+SSB18630471|SSB1863|{y i4 j ie2 b ian4 l i4 d ian4}|y i4 j ie2 b ian4 l i4 d ian4
+SSB15630214|SSB1563|{t a1 m en5 r ang4 w uo3 m en5 sh iii1 q v4 l e5 l ing2 g an3}|t a1 m en5 r ang4 w uo3 m en5 sh iii1 q v4 l e5 l ing2 g an3
+SSB08220006|SSB0822|{x iang1 s ii1 zh ai4}|x iang1 s ii1 zh ai4
+SSB08170282|SSB0817|{y i1 d a2 ch e1 h ang2 sp sh ou4 h ou4 b u4}|y i1 d a2 ch e1 h ang2 sp sh ou4 h ou4 b u4
+SSB07360172|SSB0736|{d an4 zh e4 l ei4 j i1 q i4 r en2 q ve4 y i3 sp j ing1 sp g uang3 f an4 d e5 sp c uen2 z ai4 y v2 w uo3 m en5 d e5 sh en1 sp h uo2 sp d ang1 zh ong1}|d an4 zh e4 l ei4 j i1 q i4 r en2 q ve4 y i3 sp j ing1 sp g uang3 f an4 d e5 sp c uen2 z ai4 y v2 w uo3 m en5 d e5 sh en1 sp h uo2 sp d ang1 zh ong1
+SSB07510420|SSB0751|{c ai4 x ve3 t ong2 z e2 j iang1 d i4 w u3 g e4 ch u2 ch ang3}|c ai4 x ve3 t ong2 z e2 j iang1 d i4 w u3 g e4 ch u2 ch ang3
+SSB07940081|SSB0794|{y iou2 y v2 sp q ve1 sh ao3 q van2 g uo2 t ong3 y i1 d e5 g uan2 l i3 b an4 f a3 h e2 b iao1 zh uen3}|y iou2 y v2 sp q ve1 sh ao3 q van2 g uo2 t ong3 y i1 d e5 g uan2 l i3 b an4 f a3 h e2 b iao1 zh uen3
+SSB06660030|SSB0666|{g u3 f en4 zh iii4 j i2 t uan2 y iou3 sh en2 m e5}|g u3 f en4 zh iii4 j i2 t uan2 y iou3 sh en2 m e5
+SSB14520099|SSB1452|{x in1 g uo2 b iao1 d e4 ch ang2 t ai4 x ing4 zh iii3 b iao1}|x in1 g uo2 b iao1 d e4 ch ang2 t ai4 x ing4 zh iii3 b iao1
+SSB16860126|SSB1686|{zh ong1 j ie2 l e5 e2 l uo2 s ii1 d uei4 d e5 t ong3 sp zh iii4}|zh ong1 j ie2 l e5 e2 l uo2 s ii1 d uei4 d e5 t ong3 sp zh iii4
+SSB18630361|SSB1863|{l ai2 y i4 sh ou3 h uen1 l i3 d e5 zh u4 f u2}|l ai2 y i4 sh ou3 h uen1 l i3 d e5 zh u4 f u2
+SSB15750295|SSB1575|{zh eng2 t i3 f eng1 g e2 b i3 q ian2 y i2 b u4 m ing2 m ei4 d e5 d uo1}|zh eng2 t i3 f eng1 g e2 b i3 q ian2 y i2 b u4 m ing2 m ei4 d e5 d uo1
+SSB17820465|SSB1782|{h uo4 sp s uei2 sh iii2 zh uen3 b ei4 t iao2 zh eng3 j ia4 g e2}|h uo4 sp s uei2 sh iii2 zh uen3 b ei4 t iao2 zh eng3 j ia4 g e2
+SSB13410458|SSB1341|{x ian2 y i2 r en2 x ian4 ch ang2 zh iii3 r en4 y i4 m ing2 n v2 z ii3 z ai4 sh ou3 j i1 sh ang4}|x ian2 y i2 r en2 x ian4 ch ang2 zh iii3 r en4 y i4 m ing2 n v2 z ii3 z ai4 sh ou3 j i1 sh ang4
+SSB06660039|SSB0666|{f ang4 y i1 sh ou3 sp w uang1 f eng1 d e5 g e1}|f ang4 y i1 sh ou3 sp w uang1 f eng1 d e5 g e1
+SSB15750111|SSB1575|{q van2 q iou2 z uei4 g ao1 z uei4 ch ang2 d e5 k ong1 q iao2}|q van2 q iou2 z uei4 g ao1 z uei4 ch ang2 d e5 k ong1 q iao2
+SSB10960220|SSB1096|{y i3 f ang1 b ian4 sh iii4 ch ang2 r en2 sh iii4 j in4 x ing2 sp d uei4 ch ong1 h uo2 d ong4 sp h uo4 t iao2 zh eng3 sp c ang1 w uei4}|y i3 f ang1 b ian4 sh iii4 ch ang2 r en2 sh iii4 j in4 x ing2 sp d uei4 ch ong1 h uo2 d ong4 sp h uo4 t iao2 zh eng3 sp c ang1 w uei4
+SSB03160238|SSB0316|{sh iii2 p in3 j ing1 y ing2 q i3 y ie4 sp y iou3 sh en2 m e5}|sh iii2 p in3 j ing1 y ing2 q i3 y ie4 sp y iou3 sh en2 m e5
+SSB03230393|SSB0323|{x ian4 ch ang3 x iao4 sh eng1 b u2 d uan4}|x ian4 ch ang3 x iao4 sh eng1 b u2 d uan4
+SSB07020313|SSB0702|{b u2 sh iii4 y in1 w uei4 zh e4 y iang4 c ai2 sh iii4 zh eng4 q ve4 d e5 z uo4 f a3 m a5}|b u2 sh iii4 y in1 w uei4 zh e4 y iang4 c ai2 sh iii4 zh eng4 q ve4 d e5 z uo4 f a3 m a5
+SSB12210223|SSB1221|{x van1 b u4 l e5 z ii4 j i3 d e5 t uei4 y i4 j ve2 d ing4}|x van1 b u4 l e5 z ii4 j i3 d e5 t uei4 y i4 j ve2 d ing4
+SSB03410224|SSB0341|{w uo3 m en5 h e1 d e5 sp l an4 z uei4 sp r u2 n i2}|w uo3 m en5 h e1 d e5 sp l an4 z uei4 sp r u2 n i2
+SSB05880462|SSB0588|{g en1 t ao2 j in1 ch ao2 sh iii4 d e5}|g en1 t ao2 j in1 ch ao2 sh iii4 d e5
+SSB09870189|SSB0987|{s ou1 h u2 y v2 l e4 x vn4 b a1 y ve4 e4 rr sh iii2 sp b a1 r iii4}|s ou1 h u2 y v2 l e4 x vn4 b a1 y ve4 e4 rr sh iii2 sp b a1 r iii4
+SSB03090263|SSB0309|{g ou4 m ai2 j iou3 sh iii2 p ing2 f ang1 m i2 y i3 x ia4 f ang2 w u1 sh ou3 f u4 b i3 l i4 w uei2 sp l iang3 ch eng2}|g ou4 m ai2 j iou3 sh iii2 p ing2 f ang1 m i2 y i3 x ia4 f ang2 w u1 sh ou3 f u4 b i3 l i4 w uei2 sp l iang3 ch eng2
+SSB18320423|SSB1832|{sh en1 b ian1 g ua1 q i3 d e5 sp y in2 g en1 q iou1 f eng1 sp b i3 s an1 j iou3 y ian2 h an2 sp g eng4 j v4 sh a1 sh ang1 l i4}|sh en1 b ian1 g ua1 q i3 d e5 sp y in2 g en1 q iou1 f eng1 sp b i3 s an1 j iou3 y ian2 h an2 sp g eng4 j v4 sh a1 sh ang1 l i4
+SSB04340428|SSB0434|{w u3 w uan4 q i1 q ian1 e4 rr b ai3 e4 rr sh iii2 s an1}|w u3 w uan4 q i1 q ian1 e4 rr b ai3 e4 rr sh iii2 s an1
+SSB18780193|SSB1878|{b a1 sh iii2 y i1 d ian3 s an1 s an1}|b a1 sh iii2 y i1 d ian3 s an1 s an1
+SSB03850273|SSB0385|{t ian1 j in1 zh eng4 r uen4 l v3 y iou2 zh iii4 p in2 y iou3 x ian4 g ong1 s ii1}|t ian1 j in1 zh eng4 r uen4 l v3 y iou2 zh iii4 p in2 y iou3 x ian4 g ong1 s ii1
+SSB03940228|SSB0394|{j i4 zh e3 z uo2 t ian1 sh iii4 t u2 l ian2 x i4 w uang2 y ia4 w uei3 w uei4 g uo3}|j i4 zh e3 z uo2 t ian1 sh iii4 t u2 l ian2 x i4 w uang2 y ia4 w uei3 w uei4 g uo3
+SSB02460116|SSB0246|{z ai4 h e2 l i2 g uan3 k ong4 f eng1 x ian3 d e5 q ian2 t i2 x ia4}|z ai4 h e2 l i2 g uan3 k ong4 f eng1 x ian3 d e5 q ian2 t i2 x ia4
+SSB14480041|SSB1448|{y i1 x ian4 ch eng2 sh iii4 sp ch eng2 j iao1 m ian4 j i4 h uan2 b i3 x ia4 j iang4 sp b ai3 f en1 zh iii1 sp y i1 d ian2 j iou3 y i1}|y i1 x ian4 ch eng2 sh iii4 sp ch eng2 j iao1 m ian4 j i4 h uan2 b i3 x ia4 j iang4 sp b ai3 f en1 zh iii1 sp y i1 d ian2 j iou3 y i1
+SSB02460310|SSB0246|{q ing3 b ang1 w uo3 t iao4 d ao4 sh en1 zh en4 w uei4 sh iii4}|q ing3 b ang1 w uo3 t iao4 d ao4 sh en1 zh en4 w uei4 sh iii4
+SSB10560008|SSB1056|{t a1 m ei2 y iou3 zh en1 zh eng4 d e5 d uei4 sh ou2 k e3 k ang4 h eng2}|t a1 m ei2 y iou3 zh en1 zh eng4 d e5 d uei4 sh ou2 k e3 k ang4 h eng2
+SSB05650195|SSB0565|{m en2 k ou2 y iou3 r en2 y iao4 j ian4 n i3}|m en2 k ou2 y iou3 r en2 y iao4 j ian4 n i3
+SSB11000088|SSB1100|{n i2 d ei3 s uo1 x iao2 d ian3 f an4 sp w uei2}|n i2 d ei3 s uo1 x iao2 d ian3 f an4 sp w uei2
+SSB04820279|SSB0482|{sh iii4 n iao3 ch ao2 ch eng2 w uei2 b u4 sh ao3 sp g uan1 zh ong4 d e5 sh ang1 x in1 d i4}|sh iii4 n iao3 ch ao2 ch eng2 w uei2 b u4 sh ao3 sp g uan1 zh ong4 d e5 sh ang1 x in1 d i4
+SSB07170229|SSB0717|{n i3 sp b ie2 zh an4 z ai4 w uai4 b ian1}|n i3 sp b ie2 zh an4 z ai4 w uai4 b ian1
+SSB10200002|SSB1020|{y v2 zh ong1 q v1 d e5 y i1 y van4 y iou3 sh en2 m e5}|y v2 zh ong1 q v1 d e5 y i1 y van4 y iou3 sh en2 m e5
+SSB11000165|SSB1100|{c a2 n i2 b a3 ai4 q ing2 sp g ei3 l e5 sh uei2}|c a2 n i2 b a3 ai4 q ing2 sp g ei3 l e5 sh uei2
+SSB07490363|SSB0749|{d e2 f u1 l in2 z ai4 sh eng1 m ing4 d e5 z uei4 h ou4 j i3 t ian1 y v3 t ian1 zh u3 j iao1 h uei4 d a2 ch eng2 h e2 j ie3}|d e2 f u1 l in2 z ai4 sh eng1 m ing4 d e5 z uei4 h ou4 j i3 t ian1 y v3 t ian1 zh u3 j iao1 h uei4 d a2 ch eng2 h e2 j ie3
+SSB12530353|SSB1253|{d an4 q i2 r en2 z ai4 y ie4 n ei4 d uo1 j ia1 g ong1 s ii1 r en4 z ii2}|d an4 q i2 r en2 z ai4 y ie4 n ei4 d uo1 j ia1 g ong1 s ii1 r en4 z ii2
+SSB17390170|SSB1739|{z ii4 c ong2 sp e4 rr l ing2 sp y i1 s ii4 sp s ai4 j i4 b ei3 q i4 z ii4 y iou2 r en2 l iou2 y ia3 l i2 k ai1 h ou4}|z ii4 c ong2 sp e4 rr l ing2 sp y i1 s ii4 sp s ai4 j i4 b ei3 q i4 z ii4 y iou2 r en2 l iou2 y ia3 l i2 k ai1 h ou4
+SSB19350196|SSB1935|{sh eng1 m ing4 l ie4 ch e1}|sh eng1 m ing4 l ie4 ch e1
+SSB06070163|SSB0607|{p eng2 j ia1 h uei4}|p eng2 j ia1 h uei4

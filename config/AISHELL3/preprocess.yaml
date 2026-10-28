@@ -1,0 +1,32 @@
+dataset: "AISHELL3"
+
+path:
+  # prepare_corpus.py 从 /data/datasets/AISHELL-3/data/*.parquet 导出后的结构化语料
+  corpus_path: "/data/datasets/AISHELL-3-structured"
+  lexicon_path: "lexicon/pinyin-lexicon-r.txt"
+  # 大体积中间产物（raw wav / mel 特征 / TextGrid）放共享存储
+  raw_path: "/data/datasets/FastSpeech2-QAT/raw_data/AISHELL3"
+  preprocessed_path: "/data/datasets/FastSpeech2-QAT/preprocessed_data/AISHELL3"
+
+preprocessing:
+  val_size: 512
+  text:
+    text_cleaners: []
+    language: "zh"
+  audio:
+    sampling_rate: 22050
+    max_wav_value: 32768.0
+  stft:
+    filter_length: 1024
+    hop_length: 256
+    win_length: 1024
+  mel:
+    n_mel_channels: 80
+    mel_fmin: 0
+    mel_fmax: 8000 # please set to 8000 for HiFi-GAN vocoder, set to null for MelGAN vocoder
+  pitch:
+    feature: "phoneme_level" # support 'phoneme_level' or 'frame_level'
+    normalization: True
+  energy:
+    feature: "phoneme_level" # support 'phoneme_level' or 'frame_level'
+    normalization: True

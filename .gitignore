@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.venv-mfa/
+
+# 输出与训练产物
+output/
+*.log
+
+# 大文件
+*.pth.tar
+preprocessed_data
+data_corpus
+
+# 冒烟临时
+scripts/*.log
